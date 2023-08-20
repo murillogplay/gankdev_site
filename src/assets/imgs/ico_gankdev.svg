@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="400px" height="400px" xmlns="http://www.w3.org/2000/svg">
+  <path style="fill: rgb(255, 255, 255); stroke: none; transform-origin: 400px 400px;" d="M 2.002 0 L 0 400 L 397.994 400 L 400 0 L 2.002 0 Z"/>
+  <path style="fill: rgb(253, 112, 20); stroke: none; transform-origin: 986.036px 366.191px;" d="M 199.741 1.706 C 195.483 1.899 190.971 5.331 187.379 7.112 C 177.234 12.147 167.179 17.319 157.032 22.348 C 120.559 40.42 84.113 58.65 48.011 77.284 C 37.594 82.663 27.049 87.879 16.543 93.127 C 12.745 95.022 5.693 97.13 3.732 100.775 C 2.18 103.663 3.054 108.054 3.054 111.162 L 3.054 134.658 L 3.054 216.894 L 3.054 276.613 L 3.054 292.277 C 3.061 294.595 2.643 297.48 4.21 299.511 C 6.349 302.285 11.077 303.811 14.295 305.415 L 34.524 315.626 C 59.68 328.134 84.699 340.839 109.828 353.387 C 131.584 364.252 153.235 375.284 175.016 386.114 L 191.874 394.658 C 194.518 395.985 197.664 397.966 200.865 397.815 C 205.766 397.586 211.326 393.489 215.477 391.432 C 226.399 386.019 237.205 380.422 248.072 374.928 C 282.864 357.339 317.625 339.67 352.595 322.351 C 362.747 317.324 372.815 312.172 382.942 307.108 C 386.952 305.103 393.717 302.871 396.398 299.487 C 398.911 296.319 397.554 290.069 397.554 286.402 L 397.554 252.137 L 397.554 144.448 L 397.554 114.099 C 397.554 110.228 398.8 104.352 396.876 100.775 C 395.45 98.123 391.311 96.72 388.561 95.351 L 369.456 85.706 C 343.971 72.948 318.283 60.431 293.028 47.329 C 270.739 35.768 248.121 24.612 225.592 13.409 L 208.734 5.015 C 206.053 3.668 203.006 1.559 199.741 1.706 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 83.272 1.598 L 83.726 2.13 L 83.272 1.598 M 80.547 2.13 L 81.001 2.663 L 80.547 2.13 M 84.18 2.13 L 84.634 2.663 L 84.18 2.13 M 79.639 2.663 L 80.093 3.196 L 79.639 2.663 Z"/>
+  <path style="fill: rgb(254, 201, 167); stroke: none; transform-origin: 400px 200px;" d="M 85.088 2.663 L 85.542 3.196 L 85.088 2.663 Z"/>
+  <path style="fill: rgb(254, 166, 108); stroke: none; transform-origin: 400px 200px;" d="M 85.542 3.196 L 85.996 3.728 L 85.542 3.196 M 78.277 3.728 L 78.731 4.261 L 78.277 3.728 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 86.45 3.728 L 86.904 4.261 L 86.45 3.728 M 77.369 4.261 L 77.823 4.794 L 77.369 4.261 M 87.358 4.261 L 87.812 4.794 L 87.358 4.261 Z"/>
+  <path style="fill: rgb(254, 201, 167); stroke: none; transform-origin: 400px 200px;" d="M 76.461 4.794 L 76.915 5.326 L 76.461 4.794 Z"/>
+  <path style="fill: rgb(254, 165, 108); stroke: none; transform-origin: 400px 200px;" d="M 88.72 5.326 L 89.174 5.859 L 88.72 5.326 Z"/>
+  <path style="fill: rgb(253, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 75.099 5.859 L 75.553 6.391 L 75.099 5.859 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 89.628 5.859 L 90.082 6.391 L 89.628 5.859 M 74.191 6.391 L 74.645 6.924 L 74.191 6.391 M 90.536 6.391 L 90.99 6.924 L 90.536 6.391 Z"/>
+  <path style="fill: rgb(254, 166, 108); stroke: none; transform-origin: 400px 200px;" d="M 91.898 7.457 L 92.352 7.989 L 91.898 7.457 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 71.921 7.989 L 72.375 8.522 L 71.921 7.989 Z"/>
+  <path style="fill: rgb(253, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 92.806 7.989 L 93.26 8.522 L 92.806 7.989 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 71.013 8.522 L 71.467 9.055 L 71.013 8.522 M 93.714 8.522 L 94.168 9.055 L 93.714 8.522 M 95.076 9.587 L 95.53 10.12 L 95.076 9.587 M 68.743 10.12 L 69.197 10.652 L 68.743 10.12 Z"/>
+  <path style="fill: rgb(253, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 95.984 10.12 L 96.438 10.652 L 95.984 10.12 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 67.835 10.652 L 68.289 11.185 L 67.835 10.652 Z"/>
+  <path style="fill: rgb(254, 165, 108); stroke: none; transform-origin: 400px 200px;" d="M 97.346 11.185 L 97.8 11.718 L 97.346 11.185 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 66.472 11.718 L 66.926 12.25 L 66.472 11.718 M 98.254 11.718 L 98.709 12.25 L 98.254 11.718 M 65.564 12.25 L 66.018 12.783 L 65.564 12.25 M 99.163 12.25 L 99.617 12.783 L 99.163 12.25 Z"/>
+  <path style="fill: rgb(254, 166, 108); stroke: none; transform-origin: 400px 200px;" d="M 100.525 13.316 L 100.979 13.848 L 100.525 13.316 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 63.294 13.848 L 63.748 14.381 L 63.294 13.848 M 101.433 13.848 L 101.887 14.381 L 101.433 13.848 Z"/>
+  <path style="fill: rgb(253, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 62.386 14.381 L 62.84 14.913 L 62.386 14.381 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 102.341 14.381 L 102.795 14.913 L 102.341 14.381 M 103.703 15.446 L 104.157 15.979 L 103.703 15.446 M 60.116 15.979 L 60.57 16.511 L 60.116 15.979 M 104.611 15.979 L 105.065 16.511 L 104.611 15.979 Z"/>
+  <path style="fill: rgb(253, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 59.208 16.511 L 59.662 17.044 L 59.208 16.511 Z"/>
+  <path style="fill: rgb(254, 201, 167); stroke: none; transform-origin: 400px 200px;" d="M 105.519 16.511 L 105.973 17.044 L 105.519 16.511 Z"/>
+  <path style="fill: rgb(254, 165, 108); stroke: none; transform-origin: 400px 200px;" d="M 57.846 17.577 L 58.3 18.109 L 57.846 17.577 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 106.881 17.577 L 107.335 18.109 L 106.881 17.577 M 56.938 18.109 L 57.392 18.642 L 56.938 18.109 M 107.789 18.109 L 108.243 18.642 L 107.789 18.109 Z"/>
+  <path style="fill: rgb(254, 166, 108); stroke: none; transform-origin: 400px 200px;" d="M 109.151 19.174 L 109.605 19.707 L 109.151 19.174 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 54.668 19.707 L 55.122 20.24 L 54.668 19.707 M 110.059 19.707 L 110.513 20.24 L 110.059 19.707 M 53.76 20.24 L 54.214 20.772 L 53.76 20.24 M 110.967 20.24 L 111.421 20.772 L 110.967 20.24 Z"/>
+  <path style="fill: rgb(254, 166, 108); stroke: none; transform-origin: 400px 200px;" d="M 112.329 21.305 L 112.783 21.838 L 112.329 21.305 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 51.489 21.838 L 51.943 22.37 L 51.489 21.838 Z"/>
+  <path style="fill: rgb(253, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 113.237 21.838 L 113.691 22.37 L 113.237 21.838 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 50.581 22.37 L 51.035 22.903 L 50.581 22.37 M 114.146 22.37 L 114.6 22.903 L 114.146 22.37 Z"/>
+  <path style="fill: rgb(254, 165, 108); stroke: none; transform-origin: 400px 200px;" d="M 49.219 23.435 L 49.673 23.968 L 49.219 23.435 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 115.508 23.435 L 115.962 23.968 L 115.508 23.435 M 48.311 23.968 L 48.765 24.501 L 48.311 23.968 M 116.416 23.968 L 116.87 24.501 L 116.416 23.968 Z"/>
+  <path style="fill: rgb(254, 201, 167); stroke: none; transform-origin: 400px 200px;" d="M 47.403 24.501 L 47.857 25.033 L 47.403 24.501 M 117.324 24.501 L 117.778 25.033 L 117.324 24.501 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 46.041 25.566 L 46.495 26.099 L 46.041 25.566 M 118.686 25.566 L 119.14 26.099 L 118.686 25.566 Z"/>
+  <path style="fill: rgb(253, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 45.133 26.099 L 45.587 26.631 L 45.133 26.099 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 119.594 26.099 L 120.048 26.631 L 119.594 26.099 Z"/>
+  <path style="fill: rgb(254, 166, 108); stroke: none; transform-origin: 400px 200px;" d="M 120.956 27.164 L 121.41 27.696 L 120.956 27.164 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 42.863 27.696 L 43.317 28.229 L 42.863 27.696 M 121.864 27.696 L 122.318 28.229 L 121.864 27.696 M 41.955 28.229 L 42.409 28.762 L 41.955 28.229 M 122.772 28.229 L 123.226 28.762 L 122.772 28.229 Z"/>
+  <path style="fill: rgb(254, 166, 108); stroke: none; transform-origin: 400px 200px;" d="M 40.593 29.294 L 41.047 29.827 L 40.593 29.294 Z"/>
+  <path style="fill: rgb(254, 165, 108); stroke: none; transform-origin: 400px 200px;" d="M 124.134 29.294 L 124.588 29.827 L 124.134 29.294 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 39.685 29.827 L 40.139 30.36 L 39.685 29.827 M 125.042 29.827 L 125.496 30.36 L 125.042 29.827 M 38.777 30.36 L 39.231 30.892 L 38.777 30.36 M 125.95 30.36 L 126.404 30.892 L 125.95 30.36 M 37.415 31.425 L 37.869 31.957 L 37.415 31.425 M 127.312 31.425 L 127.766 31.957 L 127.312 31.425 M 36.506 31.957 L 36.961 32.49 L 36.506 31.957 M 128.22 31.957 L 128.674 32.49 L 128.22 31.957 Z"/>
+  <path style="fill: rgb(253, 165, 108); stroke: none; transform-origin: 400px 200px;" d="M 82.363 32.49 L 82.817 33.023 L 82.363 32.49 Z"/>
+  <path style="fill: rgb(254, 201, 167); stroke: none; transform-origin: 400px 200px;" d="M 129.128 32.49 L 129.583 33.023 L 129.128 32.49 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 81.455 33.023 L 81.909 33.555 L 81.455 33.023 Z"/>
+  <path style="fill: rgb(253, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 34.236 33.555 L 34.69 34.088 L 34.236 33.555 Z"/>
+  <path style="fill: rgb(254, 202, 167); stroke: none; transform-origin: 400px 200px;" d="M 83.726 33.555 L 84.18 34.088 L 83.726 33.555 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 130.491 33.555 L 130.945 34.088 L 130.491 33.555 M 33.328 34.088 L 33.782 34.621 L 33.328 34.088 M 80.093 34.088 L 80.547 34.621 L 80.093 34.088 M 84.634 34.088 L 85.088 34.621 L 84.634 34.088 M 131.399 34.088 L 131.853 34.621 L 131.399 34.088 M 79.185 34.621 L 79.639 35.153 L 79.185 34.621 M 85.542 34.621 L 85.996 35.153 L 85.542 34.621 Z"/>
+  <path style="fill: rgb(254, 165, 108); stroke: none; transform-origin: 400px 200px;" d="M 132.761 35.153 L 133.215 35.686 L 132.761 35.153 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 31.058 35.686 L 31.512 36.218 L 31.058 35.686 Z"/>
+  <path style="fill: rgb(254, 201, 166); stroke: none; transform-origin: 400px 200px;" d="M 86.904 35.686 L 87.358 36.218 L 86.904 35.686 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 133.669 35.686 L 134.123 36.218 L 133.669 35.686 M 30.15 36.218 L 30.604 36.751 L 30.15 36.218 M 76.915 36.218 L 77.369 36.751 L 76.915 36.218 M 87.812 36.218 L 88.266 36.751 L 87.812 36.218 M 134.577 36.218 L 135.031 36.751 L 134.577 36.218 M 76.007 36.751 L 76.461 37.284 L 76.007 36.751 Z"/>
+  <path style="fill: rgb(254, 184, 138); stroke: none; transform-origin: 400px 200px;" d="M 88.72 36.751 L 89.174 37.284 L 88.72 36.751 Z"/>
+  <path style="fill: rgb(254, 165, 108); stroke: none; transform-origin: 400px 200px;" d="M 28.788 37.284 L 29.242 37.816 L 28.788 37.284 Z"/>
+  <path style="fill: rgb(254, 166, 108); stroke: none; transform-origin: 400px 200px;" d="M 135.939 37.284 L 136.393 37.816 L 135.939 37.284 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 27.88 37.816 L 28.334 38.349 L 27.88 37.816 Z"/>
+  <path style="fill: rgb(254, 184, 138); stroke: none; transform-origin: 400px 200px;" d="M 90.082 37.816 L 90.536 38.349 L 90.082 37.816 Z"/>
+  <path style="fill: rgb(253, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 136.847 37.816 L 137.301 38.349 L 136.847 37.816 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 73.737 38.349 L 74.191 38.881 L 73.737 38.349 Z"/>
+  <path style="fill: rgb(254, 184, 138); stroke: none; transform-origin: 400px 200px;" d="M 90.99 38.349 L 91.444 38.881 L 90.99 38.349 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 137.755 38.349 L 138.209 38.881 L 137.755 38.349 M 72.829 38.881 L 73.283 39.414 L 72.829 38.881 Z"/>
+  <path style="fill: rgb(254, 166, 108); stroke: none; transform-origin: 400px 200px;" d="M 91.898 38.881 L 92.352 39.414 L 91.898 38.881 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 25.61 39.414 L 26.064 39.947 L 25.61 39.414 Z"/>
+  <path style="fill: rgb(254, 202, 167); stroke: none; transform-origin: 400px 200px;" d="M 92.352 39.414 L 92.806 39.947 L 92.352 39.414 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 139.117 39.414 L 139.571 39.947 L 139.117 39.414 M 24.702 39.947 L 25.156 40.479 L 24.702 39.947 Z"/>
+  <path style="fill: rgb(253, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 71.467 39.947 L 71.921 40.479 L 71.467 39.947 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 93.26 39.947 L 93.714 40.479 L 93.26 39.947 M 140.025 39.947 L 140.479 40.479 L 140.025 39.947 M 70.559 40.479 L 71.013 41.012 L 70.559 40.479 M 94.168 40.479 L 94.622 41.012 L 94.168 40.479 Z"/>
+  <path style="fill: rgb(254, 201, 167); stroke: none; transform-origin: 400px 200px;" d="M 140.933 40.479 L 141.387 41.012 L 140.933 40.479 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 22.432 41.545 L 22.886 42.077 L 22.432 41.545 Z"/>
+  <path style="fill: rgb(254, 201, 167); stroke: none; transform-origin: 400px 200px;" d="M 95.53 41.545 L 95.984 42.077 L 95.53 41.545 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 142.295 41.545 L 142.749 42.077 L 142.295 41.545 M 21.523 42.077 L 21.978 42.61 L 21.523 42.077 Z"/>
+  <path style="fill: rgb(253, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 68.289 42.077 L 68.743 42.61 L 68.289 42.077 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 96.438 42.077 L 96.892 42.61 L 96.438 42.077 Z"/>
+  <path style="fill: rgb(253, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 143.203 42.077 L 143.657 42.61 L 143.203 42.077 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 67.38 42.61 L 67.835 43.142 L 67.38 42.61 Z"/>
+  <path style="fill: rgb(254, 184, 138); stroke: none; transform-origin: 400px 200px;" d="M 97.346 42.61 L 97.8 43.142 L 97.346 42.61 Z"/>
+  <path style="fill: rgb(254, 165, 108); stroke: none; transform-origin: 400px 200px;" d="M 20.161 43.142 L 20.615 43.675 L 20.161 43.142 Z"/>
+  <path style="fill: rgb(254, 166, 108); stroke: none; transform-origin: 400px 200px;" d="M 144.565 43.142 L 145.02 43.675 L 144.565 43.142 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 19.253 43.675 L 19.707 44.208 L 19.253 43.675 Z"/>
+  <path style="fill: rgb(254, 202, 167); stroke: none; transform-origin: 400px 200px;" d="M 98.709 43.675 L 99.163 44.208 L 98.709 43.675 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 145.474 43.675 L 145.928 44.208 L 145.474 43.675 Z"/>
+  <path style="fill: rgb(254, 201, 167); stroke: none; transform-origin: 400px 200px;" d="M 18.345 44.208 L 18.799 44.74 L 18.345 44.208 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 65.11 44.208 L 65.564 44.74 L 65.11 44.208 Z"/>
+  <path style="fill: rgb(254, 184, 138); stroke: none; transform-origin: 400px 200px;" d="M 99.617 44.208 L 100.071 44.74 L 99.617 44.208 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 146.382 44.208 L 146.836 44.74 L 146.382 44.208 M 64.202 44.74 L 64.656 45.273 L 64.202 44.74 M 100.525 44.74 L 100.979 45.273 L 100.525 44.74 Z"/>
+  <path style="fill: rgb(253, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 16.983 45.273 L 17.437 45.806 L 16.983 45.273 Z"/>
+  <path style="fill: rgb(254, 165, 108); stroke: none; transform-origin: 400px 200px;" d="M 147.744 45.273 L 148.198 45.806 L 147.744 45.273 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 16.075 45.806 L 16.529 46.338 L 16.075 45.806 Z"/>
+  <path style="fill: rgb(254, 202, 167); stroke: none; transform-origin: 400px 200px;" d="M 62.84 45.806 L 63.294 46.338 L 62.84 45.806 Z"/>
+  <path style="fill: rgb(254, 184, 138); stroke: none; transform-origin: 400px 200px;" d="M 101.887 45.806 L 102.341 46.338 L 101.887 45.806 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 148.652 45.806 L 149.106 46.338 L 148.652 45.806 M 61.932 46.338 L 62.386 46.871 L 61.932 46.338 Z"/>
+  <path style="fill: rgb(253, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 102.795 46.338 L 103.249 46.871 L 102.795 46.338 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 149.56 46.338 L 150.014 46.871 L 149.56 46.338 Z"/>
+  <path style="fill: rgb(253, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 13.805 47.403 L 14.259 47.936 L 13.805 47.403 Z"/>
+  <path style="fill: rgb(254, 201, 166); stroke: none; transform-origin: 400px 200px;" d="M 104.157 47.403 L 104.611 47.936 L 104.157 47.403 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 150.922 47.403 L 151.376 47.936 L 150.922 47.403 M 12.897 47.936 L 13.351 48.469 L 12.897 47.936 M 59.662 47.936 L 60.116 48.469 L 59.662 47.936 M 105.065 47.936 L 105.519 48.469 L 105.065 47.936 M 151.83 47.936 L 152.284 48.469 L 151.83 47.936 M 58.754 48.469 L 59.208 49.001 L 58.754 48.469 Z"/>
+  <path style="fill: rgb(253, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 105.973 48.469 L 106.427 49.001 L 105.973 48.469 Z"/>
+  <path style="fill: rgb(254, 201, 167); stroke: none; transform-origin: 400px 200px;" d="M 152.738 48.469 L 153.192 49.001 L 152.738 48.469 Z"/>
+  <path style="fill: rgb(254, 165, 108); stroke: none; transform-origin: 400px 200px;" d="M 11.535 49.001 L 11.989 49.534 L 11.535 49.001 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 10.627 49.534 L 11.081 50.067 L 10.627 49.534 Z"/>
+  <path style="fill: rgb(254, 202, 167); stroke: none; transform-origin: 400px 200px;" d="M 107.335 49.534 L 107.789 50.067 L 107.335 49.534 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 154.1 49.534 L 154.554 50.067 L 154.1 49.534 M 9.719 50.067 L 10.173 50.599 L 9.719 50.067 M 56.484 50.067 L 56.938 50.599 L 56.484 50.067 Z"/>
+  <path style="fill: rgb(254, 184, 138); stroke: none; transform-origin: 400px 200px;" d="M 108.243 50.067 L 108.697 50.599 L 108.243 50.067 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 155.008 50.067 L 155.462 50.599 L 155.008 50.067 M 55.576 50.599 L 56.03 51.132 L 55.576 50.599 M 109.151 50.599 L 109.605 51.132 L 109.151 50.599 M 8.357 51.132 L 8.811 51.664 L 8.357 51.132 Z"/>
+  <path style="fill: rgb(254, 165, 108); stroke: none; transform-origin: 400px 200px;" d="M 156.37 51.132 L 156.824 51.664 L 156.37 51.132 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 7.449 51.664 L 7.903 52.197 L 7.449 51.664 Z"/>
+  <path style="fill: rgb(254, 201, 167); stroke: none; transform-origin: 400px 200px;" d="M 54.214 51.664 L 54.668 52.197 L 54.214 51.664 M 110.513 51.664 L 110.967 52.197 L 110.513 51.664 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 157.278 51.664 L 157.732 52.197 L 157.278 51.664 M 53.306 52.197 L 53.76 52.73 L 53.306 52.197 M 111.421 52.197 L 111.875 52.73 L 111.421 52.197 M 158.186 52.197 L 158.64 52.73 L 158.186 52.197 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 112.329 52.73 L 112.783 53.262 L 112.329 52.73 M 5.178 53.262 L 5.632 53.795 L 5.178 53.262 M 83.272 53.262 L 83.726 53.795 L 83.272 53.262 Z"/>
+  <path style="fill: rgb(254, 165, 108); stroke: none; transform-origin: 400px 200px;" d="M 159.548 53.262 L 160.003 53.795 L 159.548 53.262 Z"/>
+  <path style="fill: rgb(253, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 4.27 53.795 L 4.724 54.328 L 4.27 53.795 M 51.035 53.795 L 51.489 54.328 L 51.035 53.795 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 80.547 53.795 L 81.001 54.328 L 80.547 53.795 M 84.18 53.795 L 84.634 54.328 L 84.18 53.795 M 113.691 53.795 L 114.146 54.328 L 113.691 53.795 Z"/>
+  <path style="fill: rgb(253, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 160.457 53.795 L 160.911 54.328 L 160.457 53.795 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 50.127 54.328 L 50.581 54.86 L 50.127 54.328 M 79.639 54.328 L 80.093 54.86 L 79.639 54.328 Z"/>
+  <path style="fill: rgb(254, 201, 167); stroke: none; transform-origin: 400px 200px;" d="M 85.088 54.328 L 85.542 54.86 L 85.088 54.328 Z"/>
+  <path style="fill: rgb(254, 184, 138); stroke: none; transform-origin: 400px 200px;" d="M 114.6 54.328 L 115.054 54.86 L 114.6 54.328 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 161.365 54.328 L 161.819 54.86 L 161.365 54.328 Z"/>
+  <path style="fill: rgb(254, 166, 108); stroke: none; transform-origin: 400px 200px;" d="M 85.542 54.86 L 85.996 55.393 L 85.542 54.86 Z"/>
+  <path style="fill: rgb(254, 166, 108); stroke: none; transform-origin: 400px 200px;" d="M 78.277 55.393 L 78.731 55.925 L 78.277 55.393 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 86.45 55.393 L 86.904 55.925 L 86.45 55.393 Z"/>
+  <path style="fill: rgb(254, 202, 167); stroke: none; transform-origin: 400px 200px;" d="M 115.962 55.393 L 116.416 55.925 L 115.962 55.393 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 47.857 55.925 L 48.311 56.458 L 47.857 55.925 M 77.369 55.925 L 77.823 56.458 L 77.369 55.925 Z"/>
+  <path style="fill: rgb(253, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 87.358 55.925 L 87.812 56.458 L 87.358 55.925 Z"/>
+  <path style="fill: rgb(254, 184, 138); stroke: none; transform-origin: 400px 200px;" d="M 116.87 55.925 L 117.324 56.458 L 116.87 55.925 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 46.949 56.458 L 47.403 56.991 L 46.949 56.458 Z"/>
+  <path style="fill: rgb(254, 201, 167); stroke: none; transform-origin: 400px 200px;" d="M 76.461 56.458 L 76.915 56.991 L 76.461 56.458 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 117.778 56.458 L 118.232 56.991 L 117.778 56.458 Z"/>
+  <path style="fill: rgb(253, 165, 107); stroke: none; transform-origin: 400px 200px;" d="M 88.72 56.991 L 89.174 57.523 L 88.72 56.991 Z"/>
+  <path style="fill: rgb(254, 202, 167); stroke: none; transform-origin: 400px 200px;" d="M 45.587 57.523 L 46.041 58.056 L 45.587 57.523 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 75.099 57.523 L 75.553 58.056 L 75.099 57.523 M 89.628 57.523 L 90.082 58.056 L 89.628 57.523 Z"/>
+  <path style="fill: rgb(254, 202, 167); stroke: none; transform-origin: 400px 200px;" d="M 119.14 57.523 L 119.594 58.056 L 119.14 57.523 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 44.679 58.056 L 45.133 58.589 L 44.679 58.056 Z"/>
+  <path style="fill: rgb(253, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 74.191 58.056 L 74.645 58.589 L 74.191 58.056 M 90.536 58.056 L 90.99 58.589 L 90.536 58.056 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 120.048 58.056 L 120.502 58.589 L 120.048 58.056 Z"/>
+  <path style="fill: rgb(254, 166, 108); stroke: none; transform-origin: 400px 200px;" d="M 43.771 58.589 L 44.225 59.121 L 43.771 58.589 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 120.956 58.589 L 121.41 59.121 L 120.956 58.589 Z"/>
+  <path style="fill: rgb(254, 166, 108); stroke: none; transform-origin: 400px 200px;" d="M 91.898 59.121 L 92.352 59.654 L 91.898 59.121 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 42.409 59.654 L 42.863 60.186 L 42.409 59.654 M 71.921 59.654 L 72.375 60.186 L 71.921 59.654 M 92.806 59.654 L 93.26 60.186 L 92.806 59.654 M 122.318 59.654 L 122.772 60.186 L 122.318 59.654 Z"/>
+  <path style="fill: rgb(253, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 41.501 60.186 L 41.955 60.719 L 41.501 60.186 M 71.013 60.186 L 71.467 60.719 L 71.013 60.186 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 93.714 60.186 L 94.168 60.719 L 93.714 60.186 Z"/>
+  <path style="fill: rgb(254, 184, 138); stroke: none; transform-origin: 400px 200px;" d="M 123.226 60.186 L 123.68 60.719 L 123.226 60.186 Z"/>
+  <path style="fill: rgb(254, 166, 108); stroke: none; transform-origin: 400px 200px;" d="M 124.134 60.719 L 124.588 61.252 L 124.134 60.719 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 95.076 61.252 L 95.53 61.784 L 95.076 61.252 M 39.231 61.784 L 39.685 62.317 L 39.231 61.784 M 68.743 61.784 L 69.197 62.317 L 68.743 61.784 M 95.984 61.784 L 96.438 62.317 L 95.984 61.784 Z"/>
+  <path style="fill: rgb(254, 184, 138); stroke: none; transform-origin: 400px 200px;" d="M 125.496 61.784 L 125.95 62.317 L 125.496 61.784 Z"/>
+  <path style="fill: rgb(253, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 38.323 62.317 L 38.777 62.85 L 38.323 62.317 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 67.835 62.317 L 68.289 62.85 L 67.835 62.317 Z"/>
+  <path style="fill: rgb(254, 201, 166); stroke: none; transform-origin: 400px 200px;" d="M 96.892 62.317 L 97.346 62.85 L 96.892 62.317 Z"/>
+  <path style="fill: rgb(253, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 126.404 62.317 L 126.858 62.85 L 126.404 62.317 Z"/>
+  <path style="fill: rgb(254, 201, 167); stroke: none; transform-origin: 400px 200px;" d="M 36.961 63.382 L 37.415 63.915 L 36.961 63.382 Z"/>
+  <path style="fill: rgb(254, 165, 108); stroke: none; transform-origin: 400px 200px;" d="M 66.472 63.382 L 66.926 63.915 L 66.472 63.382 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 98.254 63.382 L 98.709 63.915 L 98.254 63.382 Z"/>
+  <path style="fill: rgb(254, 201, 167); stroke: none; transform-origin: 400px 200px;" d="M 127.766 63.382 L 128.22 63.915 L 127.766 63.382 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 36.052 63.915 L 36.506 64.447 L 36.052 63.915 M 65.564 63.915 L 66.018 64.447 L 65.564 63.915 M 99.163 63.915 L 99.617 64.447 L 99.163 63.915 M 128.674 63.915 L 129.128 64.447 L 128.674 63.915 Z"/>
+  <path style="fill: rgb(254, 166, 108); stroke: none; transform-origin: 400px 200px;" d="M 35.144 64.447 L 35.598 64.98 L 35.144 64.447 Z"/>
+  <path style="fill: rgb(254, 201, 167); stroke: none; transform-origin: 400px 200px;" d="M 64.656 64.447 L 65.11 64.98 L 64.656 64.447 M 100.071 64.447 L 100.525 64.98 L 100.071 64.447 Z"/>
+  <path style="fill: rgb(253, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 129.583 64.447 L 130.037 64.98 L 129.583 64.447 Z"/>
+  <path style="fill: rgb(254, 166, 108); stroke: none; transform-origin: 400px 200px;" d="M 100.525 64.98 L 100.979 65.513 L 100.525 64.98 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 33.782 65.513 L 34.236 66.045 L 33.782 65.513 M 63.294 65.513 L 63.748 66.045 L 63.294 65.513 M 101.433 65.513 L 101.887 66.045 L 101.433 65.513 Z"/>
+  <path style="fill: rgb(254, 201, 167); stroke: none; transform-origin: 400px 200px;" d="M 130.945 65.513 L 131.399 66.045 L 130.945 65.513 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 32.874 66.045 L 33.328 66.578 L 32.874 66.045 M 62.386 66.045 L 62.84 66.578 L 62.386 66.045 M 102.341 66.045 L 102.795 66.578 L 102.341 66.045 Z"/>
+  <path style="fill: rgb(254, 184, 138); stroke: none; transform-origin: 400px 200px;" d="M 131.853 66.045 L 132.307 66.578 L 131.853 66.045 Z"/>
+  <path style="fill: rgb(254, 184, 138); stroke: none; transform-origin: 400px 200px;" d="M 132.761 66.578 L 133.215 67.111 L 132.761 66.578 Z"/>
+  <path style="fill: rgb(254, 165, 108); stroke: none; transform-origin: 400px 200px;" d="M 103.703 67.111 L 104.157 67.643 L 103.703 67.111 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 30.604 67.643 L 31.058 68.176 L 30.604 67.643 M 60.116 67.643 L 60.57 68.176 L 60.116 67.643 M 104.611 67.643 L 105.065 68.176 L 104.611 67.643 Z"/>
+  <path style="fill: rgb(254, 184, 138); stroke: none; transform-origin: 400px 200px;" d="M 134.123 67.643 L 134.577 68.176 L 134.123 67.643 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 29.696 68.176 L 30.15 68.708 L 29.696 68.176 M 59.208 68.176 L 59.662 68.708 L 59.208 68.176 M 105.519 68.176 L 105.973 68.708 L 105.519 68.176 Z"/>
+  <path style="fill: rgb(254, 184, 138); stroke: none; transform-origin: 400px 200px;" d="M 135.031 68.176 L 135.485 68.708 L 135.031 68.176 Z"/>
+  <path style="fill: rgb(254, 166, 108); stroke: none; transform-origin: 400px 200px;" d="M 135.939 68.708 L 136.393 69.241 L 135.939 68.708 Z"/>
+  <path style="fill: rgb(254, 165, 108); stroke: none; transform-origin: 400px 200px;" d="M 106.881 69.241 L 107.335 69.774 L 106.881 69.241 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 27.426 69.774 L 27.88 70.306 L 27.426 69.774 Z"/>
+  <path style="fill: rgb(253, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 56.938 69.774 L 57.392 70.306 L 56.938 69.774 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 107.789 69.774 L 108.243 70.306 L 107.789 69.774 M 137.301 69.774 L 137.755 70.306 L 137.301 69.774 M 26.518 70.306 L 26.972 70.839 L 26.518 70.306 M 56.03 70.306 L 56.484 70.839 L 56.03 70.306 M 108.697 70.306 L 109.151 70.839 L 108.697 70.306 M 138.209 70.306 L 138.663 70.839 L 138.209 70.306 Z"/>
+  <path style="fill: rgb(254, 165, 108); stroke: none; transform-origin: 400px 200px;" d="M 54.668 71.371 L 55.122 71.904 L 54.668 71.371 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 110.059 71.371 L 110.513 71.904 L 110.059 71.371 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 53.76 71.904 L 54.214 72.437 L 53.76 71.904 Z"/>
+  <path style="fill: rgb(253, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 110.967 71.904 L 111.421 72.437 L 110.967 71.904 Z"/>
+  <path style="fill: rgb(254, 201, 167); stroke: none; transform-origin: 400px 200px;" d="M 111.875 72.437 L 112.329 72.969 L 111.875 72.437 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 51.489 73.502 L 51.943 74.035 L 51.489 73.502 M 113.237 73.502 L 113.691 74.035 L 113.237 73.502 M 50.581 74.035 L 51.035 74.567 L 50.581 74.035 Z"/>
+  <path style="fill: rgb(253, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 114.146 74.035 L 114.6 74.567 L 114.146 74.035 Z"/>
+  <path style="fill: rgb(254, 201, 167); stroke: none; transform-origin: 400px 200px;" d="M 115.054 74.567 L 115.508 75.1 L 115.054 74.567 Z"/>
+  <path style="fill: rgb(253, 165, 107); stroke: none; transform-origin: 400px 200px;" d="M 115.508 75.1 L 115.962 75.632 L 115.508 75.1 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 48.311 75.632 L 48.765 76.165 L 48.311 75.632 M 116.416 75.632 L 116.87 76.165 L 116.416 75.632 M 47.403 76.165 L 47.857 76.698 L 47.403 76.165 M 117.324 76.165 L 117.778 76.698 L 117.324 76.165 Z"/>
+  <path style="fill: rgb(253, 165, 108); stroke: none; transform-origin: 400px 200px;" d="M 118.686 77.23 L 119.14 77.763 L 118.686 77.23 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 45.133 77.763 L 45.587 78.296 L 45.133 77.763 M 119.594 77.763 L 120.048 78.296 L 119.594 77.763 Z"/>
+  <path style="fill: rgb(253, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 44.225 78.296 L 44.679 78.828 L 44.225 78.296 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 120.502 78.296 L 120.956 78.828 L 120.502 78.296 Z"/>
+  <path style="fill: rgb(253, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 42.863 79.361 L 43.317 79.893 L 42.863 79.361 Z"/>
+  <path style="fill: rgb(254, 165, 108); stroke: none; transform-origin: 400px 200px;" d="M 121.864 79.361 L 122.318 79.893 L 121.864 79.361 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 41.955 79.893 L 42.409 80.426 L 41.955 79.893 M 122.772 79.893 L 123.226 80.426 L 122.772 79.893 M 123.68 80.426 L 124.134 80.959 L 123.68 80.426 Z"/>
+  <path style="fill: rgb(254, 166, 108); stroke: none; transform-origin: 400px 200px;" d="M 82.363 84.154 L 82.817 84.687 L 82.363 84.154 Z"/>
+  <path style="fill: rgb(253, 165, 108); stroke: none; transform-origin: 400px 200px;" d="M 83.272 84.687 L 83.726 85.22 L 83.272 84.687 Z"/>
+  <path style="fill: rgb(253, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 80.093 85.752 L 80.547 86.285 L 80.093 85.752 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 84.634 85.752 L 85.088 86.285 L 84.634 85.752 M 79.185 86.285 L 79.639 86.818 L 79.185 86.285 M 85.542 86.285 L 85.996 86.818 L 85.542 86.285 Z"/>
+  <path style="fill: rgb(254, 202, 167); stroke: none; transform-origin: 400px 200px;" d="M 77.823 87.35 L 78.277 87.883 L 77.823 87.35 Z"/>
+  <path style="fill: rgb(254, 201, 167); stroke: none; transform-origin: 400px 200px;" d="M 86.904 87.35 L 87.358 87.883 L 86.904 87.35 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 76.915 87.883 L 77.369 88.415 L 76.915 87.883 Z"/>
+  <path style="fill: rgb(253, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 87.812 87.883 L 88.266 88.415 L 87.812 87.883 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 76.007 88.415 L 76.461 88.948 L 76.007 88.415 Z"/>
+  <path style="fill: rgb(254, 184, 138); stroke: none; transform-origin: 400px 200px;" d="M 88.72 88.415 L 89.174 88.948 L 88.72 88.415 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 74.645 89.481 L 75.099 90.013 L 74.645 89.481 Z"/>
+  <path style="fill: rgb(254, 202, 167); stroke: none; transform-origin: 400px 200px;" d="M 90.082 89.481 L 90.536 90.013 L 90.082 89.481 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 73.737 90.013 L 74.191 90.546 L 73.737 90.013 Z"/>
+  <path style="fill: rgb(254, 184, 138); stroke: none; transform-origin: 400px 200px;" d="M 90.99 90.013 L 91.444 90.546 L 90.99 90.013 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 91.898 90.546 L 92.352 91.079 L 91.898 90.546 M 71.467 91.611 L 71.921 92.144 L 71.467 91.611 M 93.26 91.611 L 93.714 92.144 L 93.26 91.611 Z"/>
+  <path style="fill: rgb(253, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 70.559 92.144 L 71.013 92.676 L 70.559 92.144 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 94.168 92.144 L 94.622 92.676 L 94.168 92.144 Z"/>
+  <path style="fill: rgb(254, 166, 108); stroke: none; transform-origin: 400px 200px;" d="M 95.076 92.676 L 95.53 93.209 L 95.076 92.676 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 68.289 93.742 L 68.743 94.274 L 68.289 93.742 M 96.438 93.742 L 96.892 94.274 L 96.438 93.742 M 67.38 94.274 L 67.835 94.807 L 67.38 94.274 Z"/>
+  <path style="fill: rgb(254, 184, 138); stroke: none; transform-origin: 400px 200px;" d="M 97.346 94.274 L 97.8 94.807 L 97.346 94.274 Z"/>
+  <path style="fill: rgb(254, 201, 166); stroke: none; transform-origin: 400px 200px;" d="M 66.018 95.34 L 66.472 95.872 L 66.018 95.34 Z"/>
+  <path style="fill: rgb(254, 202, 167); stroke: none; transform-origin: 400px 200px;" d="M 98.709 95.34 L 99.163 95.872 L 98.709 95.34 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 65.11 95.872 L 65.564 96.405 L 65.11 95.872 Z"/>
+  <path style="fill: rgb(254, 184, 138); stroke: none; transform-origin: 400px 200px;" d="M 99.617 95.872 L 100.071 96.405 L 99.617 95.872 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 64.202 96.405 L 64.656 96.937 L 64.202 96.405 M 100.525 96.405 L 100.979 96.937 L 100.525 96.405 Z"/>
+  <path style="fill: rgb(253, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 64.202 121.971 L 64.656 122.503 L 64.202 121.971 M 100.525 121.971 L 100.979 122.503 L 100.525 121.971 Z"/>
+  <path style="fill: rgb(254, 165, 108); stroke: none; transform-origin: 400px 200px;" d="M 65.564 123.036 L 66.018 123.569 L 65.564 123.036 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 66.472 123.569 L 66.926 124.101 L 66.472 123.569 M 98.254 123.569 L 98.709 124.101 L 98.254 123.569 M 67.38 124.101 L 67.835 124.634 L 67.38 124.101 Z"/>
+  <path style="fill: rgb(253, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 97.346 124.101 L 97.8 124.634 L 97.346 124.101 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 68.743 125.166 L 69.197 125.699 L 68.743 125.166 Z"/>
+  <path style="fill: rgb(254, 165, 108); stroke: none; transform-origin: 400px 200px;" d="M 95.984 125.166 L 96.438 125.699 L 95.984 125.166 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 69.651 125.699 L 70.105 126.232 L 69.651 125.699 M 95.076 125.699 L 95.53 126.232 L 95.076 125.699 Z"/>
+  <path style="fill: rgb(254, 201, 167); stroke: none; transform-origin: 400px 200px;" d="M 70.559 126.232 L 71.013 126.764 L 70.559 126.232 M 94.168 126.232 L 94.622 126.764 L 94.168 126.232 Z"/>
+  <path style="fill: rgb(254, 166, 108); stroke: none; transform-origin: 400px 200px;" d="M 71.013 126.764 L 71.467 127.297 L 71.013 126.764 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 71.921 127.297 L 72.375 127.83 L 71.921 127.297 M 92.806 127.297 L 93.26 127.83 L 92.806 127.297 M 72.829 127.83 L 73.283 128.362 L 72.829 127.83 M 91.898 127.83 L 92.352 128.362 L 91.898 127.83 Z"/>
+  <path style="fill: rgb(254, 165, 108); stroke: none; transform-origin: 400px 200px;" d="M 74.191 128.895 L 74.645 129.427 L 74.191 128.895 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 75.099 129.427 L 75.553 129.96 L 75.099 129.427 M 89.628 129.427 L 90.082 129.96 L 89.628 129.427 M 76.007 129.96 L 76.461 130.493 L 76.007 129.96 M 88.72 129.96 L 89.174 130.493 L 88.72 129.96 Z"/>
+  <path style="fill: rgb(254, 165, 108); stroke: none; transform-origin: 400px 200px;" d="M 77.369 131.025 L 77.823 131.558 L 77.369 131.025 M 87.358 131.025 L 87.812 131.558 L 87.358 131.025 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 78.277 131.558 L 78.731 132.091 L 78.277 131.558 M 86.45 131.558 L 86.904 132.091 L 86.45 131.558 M 79.185 132.091 L 79.639 132.623 L 79.185 132.091 M 80.547 133.156 L 81.001 133.688 L 80.547 133.156 M 84.18 133.156 L 84.634 133.688 L 84.18 133.156 Z"/>
+  <path style="fill: rgb(253, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 81.455 133.688 L 81.909 134.221 L 81.455 133.688 M 83.272 133.688 L 83.726 134.221 L 83.272 133.688 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 82.363 134.221 L 82.817 134.754 L 82.363 134.221 Z"/>
+  <path style="fill: rgb(254, 184, 138); stroke: none; transform-origin: 400px 200px;" d="M 41.047 137.949 L 41.501 138.482 L 41.047 137.949 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 123.68 137.949 L 124.134 138.482 L 123.68 137.949 Z"/>
+  <path style="fill: rgb(254, 166, 108); stroke: none; transform-origin: 400px 200px;" d="M 41.955 138.482 L 42.409 139.015 L 41.955 138.482 M 122.772 138.482 L 123.226 139.015 L 122.772 138.482 Z"/>
+  <path style="fill: rgb(254, 184, 138); stroke: none; transform-origin: 400px 200px;" d="M 43.317 139.547 L 43.771 140.08 L 43.317 139.547 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 121.41 139.547 L 121.864 140.08 L 121.41 139.547 M 44.225 140.08 L 44.679 140.613 L 44.225 140.08 M 120.502 140.08 L 120.956 140.613 L 120.502 140.08 Z"/>
+  <path style="fill: rgb(254, 202, 167); stroke: none; transform-origin: 400px 200px;" d="M 45.587 141.145 L 46.041 141.678 L 45.587 141.145 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 46.495 141.678 L 46.949 142.21 L 46.495 141.678 M 118.232 141.678 L 118.686 142.21 L 118.232 141.678 M 47.403 142.21 L 47.857 142.743 L 47.403 142.21 M 117.324 142.21 L 117.778 142.743 L 117.324 142.21 Z"/>
+  <path style="fill: rgb(254, 201, 166); stroke: none; transform-origin: 400px 200px;" d="M 48.765 143.276 L 49.219 143.808 L 48.765 143.276 Z"/>
+  <path style="fill: rgb(254, 202, 167); stroke: none; transform-origin: 400px 200px;" d="M 115.962 143.276 L 116.416 143.808 L 115.962 143.276 Z"/>
+  <path style="fill: rgb(254, 184, 138); stroke: none; transform-origin: 400px 200px;" d="M 49.673 143.808 L 50.127 144.341 L 49.673 143.808 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 115.054 143.808 L 115.508 144.341 L 115.054 143.808 Z"/>
+  <path style="fill: rgb(253, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 50.581 144.341 L 51.035 144.873 L 50.581 144.341 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 114.146 144.341 L 114.6 144.873 L 114.146 144.341 Z"/>
+  <path style="fill: rgb(254, 184, 138); stroke: none; transform-origin: 400px 200px;" d="M 51.943 145.406 L 52.398 145.939 L 51.943 145.406 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 112.783 145.406 L 113.237 145.939 L 112.783 145.406 M 52.852 145.939 L 53.306 146.471 L 52.852 145.939 M 111.875 145.939 L 112.329 146.471 L 111.875 145.939 Z"/>
+  <path style="fill: rgb(254, 166, 108); stroke: none; transform-origin: 400px 200px;" d="M 53.76 146.471 L 54.214 147.004 L 53.76 146.471 Z"/>
+  <path style="fill: rgb(253, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 55.122 147.537 L 55.576 148.069 L 55.122 147.537 M 109.605 147.537 L 110.059 148.069 L 109.605 147.537 Z"/>
+  <path style="fill: rgb(254, 201, 167); stroke: none; transform-origin: 400px 200px;" d="M 26.518 148.069 L 26.972 148.602 L 26.518 148.069 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 56.03 148.069 L 56.484 148.602 L 56.03 148.069 M 108.697 148.069 L 109.151 148.602 L 108.697 148.069 M 138.209 148.069 L 138.663 148.602 L 138.209 148.069 M 27.88 149.134 L 28.334 149.667 L 27.88 149.134 Z"/>
+  <path style="fill: rgb(254, 201, 167); stroke: none; transform-origin: 400px 200px;" d="M 57.392 149.134 L 57.846 149.667 L 57.392 149.134 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 28.788 149.667 L 29.242 150.2 L 28.788 149.667 Z"/>
+  <path style="fill: rgb(254, 184, 138); stroke: none; transform-origin: 400px 200px;" d="M 58.3 149.667 L 58.754 150.2 L 58.3 149.667 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 106.427 149.667 L 106.881 150.2 L 106.427 149.667 M 135.939 149.667 L 136.393 150.2 L 135.939 149.667 Z"/>
+  <path style="fill: rgb(254, 201, 167); stroke: none; transform-origin: 400px 200px;" d="M 29.696 150.2 L 30.15 150.732 L 29.696 150.2 Z"/>
+  <path style="fill: rgb(254, 184, 138); stroke: none; transform-origin: 400px 200px;" d="M 59.208 150.2 L 59.662 150.732 L 59.208 150.2 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 105.519 150.2 L 105.973 150.732 L 105.519 150.2 M 135.031 150.2 L 135.485 150.732 L 135.031 150.2 Z"/>
+  <path style="fill: rgb(254, 165, 108); stroke: none; transform-origin: 400px 200px;" d="M 30.15 150.732 L 30.604 151.265 L 30.15 150.732 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 31.058 151.265 L 31.512 151.798 L 31.058 151.265 Z"/>
+  <path style="fill: rgb(254, 202, 167); stroke: none; transform-origin: 400px 200px;" d="M 60.57 151.265 L 61.024 151.798 L 60.57 151.265 Z"/>
+  <path style="fill: rgb(254, 201, 167); stroke: none; transform-origin: 400px 200px;" d="M 104.157 151.265 L 104.611 151.798 L 104.157 151.265 Z"/>
+  <path style="fill: rgb(253, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 31.966 151.798 L 32.42 152.33 L 31.966 151.798 Z"/>
+  <path style="fill: rgb(254, 184, 138); stroke: none; transform-origin: 400px 200px;" d="M 61.478 151.798 L 61.932 152.33 L 61.478 151.798 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 103.249 151.798 L 103.703 152.33 L 103.249 151.798 M 132.761 151.798 L 133.215 152.33 L 132.761 151.798 M 62.386 152.33 L 62.84 152.863 L 62.386 152.33 Z"/>
+  <path style="fill: rgb(254, 166, 108); stroke: none; transform-origin: 400px 200px;" d="M 102.341 152.33 L 102.795 152.863 L 102.341 152.33 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 131.853 152.33 L 132.307 152.863 L 131.853 152.33 Z"/>
+  <path style="fill: rgb(253, 165, 107); stroke: none; transform-origin: 400px 200px;" d="M 33.328 152.863 L 33.782 153.395 L 33.328 152.863 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 34.236 153.395 L 34.69 153.928 L 34.236 153.395 M 63.748 153.395 L 64.202 153.928 L 63.748 153.395 M 100.979 153.395 L 101.433 153.928 L 100.979 153.395 M 130.491 153.395 L 130.945 153.928 L 130.491 153.395 Z"/>
+  <path style="fill: rgb(253, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 35.144 153.928 L 35.598 154.461 L 35.144 153.928 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 64.656 153.928 L 65.11 154.461 L 64.656 153.928 M 100.071 153.928 L 100.525 154.461 L 100.071 153.928 M 129.583 153.928 L 130.037 154.461 L 129.583 153.928 Z"/>
+  <path style="fill: rgb(254, 166, 108); stroke: none; transform-origin: 400px 200px;" d="M 65.564 154.461 L 66.018 154.993 L 65.564 154.461 M 36.506 154.993 L 36.961 155.526 L 36.506 154.993 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 37.415 155.526 L 37.869 156.059 L 37.415 155.526 Z"/>
+  <path style="fill: rgb(254, 184, 138); stroke: none; transform-origin: 400px 200px;" d="M 66.926 155.526 L 67.38 156.059 L 66.926 155.526 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 97.8 155.526 L 98.254 156.059 L 97.8 155.526 M 127.312 155.526 L 127.766 156.059 L 127.312 155.526 M 38.323 156.059 L 38.777 156.591 L 38.323 156.059 Z"/>
+  <path style="fill: rgb(254, 184, 138); stroke: none; transform-origin: 400px 200px;" d="M 67.835 156.059 L 68.289 156.591 L 67.835 156.059 Z"/>
+  <path style="fill: rgb(253, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 96.892 156.059 L 97.346 156.591 L 96.892 156.059 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 126.404 156.059 L 126.858 156.591 L 126.404 156.059 M 39.685 157.124 L 40.139 157.656 L 39.685 157.124 Z"/>
+  <path style="fill: rgb(254, 202, 167); stroke: none; transform-origin: 400px 200px;" d="M 69.197 157.124 L 69.651 157.656 L 69.197 157.124 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 40.593 157.656 L 41.047 158.189 L 40.593 157.656 Z"/>
+  <path style="fill: rgb(254, 184, 138); stroke: none; transform-origin: 400px 200px;" d="M 70.105 157.656 L 70.559 158.189 L 70.105 157.656 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 94.622 157.656 L 95.076 158.189 L 94.622 157.656 M 124.134 157.656 L 124.588 158.189 L 124.134 157.656 Z"/>
+  <path style="fill: rgb(254, 201, 166); stroke: none; transform-origin: 400px 200px;" d="M 41.501 158.189 L 41.955 158.722 L 41.501 158.189 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 71.013 158.189 L 71.467 158.722 L 71.013 158.189 Z"/>
+  <path style="fill: rgb(253, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 93.714 158.189 L 94.168 158.722 L 93.714 158.189 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 123.226 158.189 L 123.68 158.722 L 123.226 158.189 M 42.863 159.254 L 43.317 159.787 L 42.863 159.254 Z"/>
+  <path style="fill: rgb(254, 201, 167); stroke: none; transform-origin: 400px 200px;" d="M 72.375 159.254 L 72.829 159.787 L 72.375 159.254 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 92.352 159.254 L 92.806 159.787 L 92.352 159.254 M 121.864 159.254 L 122.318 159.787 L 121.864 159.254 M 43.771 159.787 L 44.225 160.32 L 43.771 159.787 M 73.283 159.787 L 73.737 160.32 L 73.283 159.787 M 91.444 159.787 L 91.898 160.32 L 91.444 159.787 M 120.956 159.787 L 121.41 160.32 L 120.956 159.787 Z"/>
+  <path style="fill: rgb(254, 184, 138); stroke: none; transform-origin: 400px 200px;" d="M 74.191 160.32 L 74.645 160.852 L 74.191 160.32 Z"/>
+  <path style="fill: rgb(254, 166, 108); stroke: none; transform-origin: 400px 200px;" d="M 45.133 160.852 L 45.587 161.385 L 45.133 160.852 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 46.041 161.385 L 46.495 161.917 L 46.041 161.385 Z"/>
+  <path style="fill: rgb(253, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 75.553 161.385 L 76.007 161.917 L 75.553 161.385 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 89.174 161.385 L 89.628 161.917 L 89.174 161.385 Z"/>
+  <path style="fill: rgb(253, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 118.686 161.385 L 119.14 161.917 L 118.686 161.385 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 46.949 161.917 L 47.403 162.45 L 46.949 161.917 Z"/>
+  <path style="fill: rgb(254, 184, 138); stroke: none; transform-origin: 400px 200px;" d="M 76.461 161.917 L 76.915 162.45 L 76.461 161.917 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 88.266 161.917 L 88.72 162.45 L 88.266 161.917 M 117.778 161.917 L 118.232 162.45 L 117.778 161.917 Z"/>
+  <path style="fill: rgb(253, 165, 108); stroke: none; transform-origin: 400px 200px;" d="M 77.369 162.45 L 77.823 162.983 L 77.369 162.45 Z"/>
+  <path style="fill: rgb(254, 165, 108); stroke: none; transform-origin: 400px 200px;" d="M 48.311 162.983 L 48.765 163.515 L 48.311 162.983 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 49.219 163.515 L 49.673 164.048 L 49.219 163.515 Z"/>
+  <path style="fill: rgb(253, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 78.731 163.515 L 79.185 164.048 L 78.731 163.515 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 85.996 163.515 L 86.45 164.048 L 85.996 163.515 M 115.508 163.515 L 115.962 164.048 L 115.508 163.515 M 3.362 164.048 L 3.816 164.581 L 3.362 164.048 M 50.127 164.048 L 50.581 164.581 L 50.127 164.048 M 79.639 164.048 L 80.093 164.581 L 79.639 164.048 M 85.088 164.048 L 85.542 164.581 L 85.088 164.048 M 114.6 164.048 L 115.054 164.581 L 114.6 164.048 Z"/>
+  <path style="fill: rgb(253, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 4.27 164.581 L 4.724 165.113 L 4.27 164.581 M 160.457 164.581 L 160.911 165.113 L 160.457 164.581 Z"/>
+  <path style="fill: rgb(254, 166, 108); stroke: none; transform-origin: 400px 200px;" d="M 51.489 165.113 L 51.943 165.646 L 51.489 165.113 Z"/>
+  <path style="fill: rgb(254, 201, 167); stroke: none; transform-origin: 400px 200px;" d="M 81.001 165.113 L 81.455 165.646 L 81.001 165.113 Z"/>
+  <path style="fill: rgb(254, 202, 167); stroke: none; transform-origin: 400px 200px;" d="M 83.726 165.113 L 84.18 165.646 L 83.726 165.113 Z"/>
+  <path style="fill: rgb(254, 165, 108); stroke: none; transform-origin: 400px 200px;" d="M 113.237 165.113 L 113.691 165.646 L 113.237 165.113 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 159.548 165.113 L 160.003 165.646 L 159.548 165.113 Z"/>
+  <path style="fill: rgb(254, 202, 167); stroke: none; transform-origin: 400px 200px;" d="M 5.632 165.646 L 6.086 166.178 L 5.632 165.646 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 52.398 165.646 L 52.852 166.178 L 52.398 165.646 M 81.909 165.646 L 82.363 166.178 L 81.909 165.646 M 82.817 165.646 L 83.272 166.178 L 82.817 165.646 M 112.329 165.646 L 112.783 166.178 L 112.329 165.646 Z"/>
+  <path style="fill: rgb(254, 184, 138); stroke: none; transform-origin: 400px 200px;" d="M 6.541 166.178 L 6.995 166.711 L 6.541 166.178 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 53.306 166.178 L 53.76 166.711 L 53.306 166.178 M 158.186 166.178 L 158.64 166.711 L 158.186 166.178 M 7.449 166.711 L 7.903 167.244 L 7.449 166.711 M 157.278 166.711 L 157.732 167.244 L 157.278 166.711 M 54.668 167.244 L 55.122 167.776 L 54.668 167.244 M 110.059 167.244 L 110.513 167.776 L 110.059 167.244 Z"/>
+  <path style="fill: rgb(254, 184, 138); stroke: none; transform-origin: 400px 200px;" d="M 8.811 167.776 L 9.265 168.309 L 8.811 167.776 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 55.576 167.776 L 56.03 168.309 L 55.576 167.776 M 109.151 167.776 L 109.605 168.309 L 109.151 167.776 M 9.719 168.309 L 10.173 168.842 L 9.719 168.309 Z"/>
+  <path style="fill: rgb(254, 201, 167); stroke: none; transform-origin: 400px 200px;" d="M 56.484 168.309 L 56.938 168.842 L 56.484 168.309 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 155.008 168.309 L 155.462 168.842 L 155.008 168.309 Z"/>
+  <path style="fill: rgb(254, 166, 108); stroke: none; transform-origin: 400px 200px;" d="M 10.627 168.842 L 11.081 169.374 L 10.627 168.842 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 154.1 168.842 L 154.554 169.374 L 154.1 168.842 M 57.846 169.374 L 58.3 169.907 L 57.846 169.374 M 106.881 169.374 L 107.335 169.907 L 106.881 169.374 M 11.989 169.907 L 12.443 170.439 L 11.989 169.907 M 58.754 169.907 L 59.208 170.439 L 58.754 169.907 Z"/>
+  <path style="fill: rgb(253, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 105.973 169.907 L 106.427 170.439 L 105.973 169.907 Z"/>
+  <path style="fill: rgb(254, 184, 138); stroke: none; transform-origin: 400px 200px;" d="M 12.897 170.439 L 13.351 170.972 L 12.897 170.439 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 151.83 170.439 L 152.284 170.972 L 151.83 170.439 Z"/>
+  <path style="fill: rgb(253, 165, 108); stroke: none; transform-origin: 400px 200px;" d="M 60.116 170.972 L 60.57 171.505 L 60.116 170.972 Z"/>
+  <path style="fill: rgb(254, 165, 108); stroke: none; transform-origin: 400px 200px;" d="M 104.611 170.972 L 105.065 171.505 L 104.611 170.972 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 150.922 170.972 L 151.376 171.505 L 150.922 170.972 Z"/>
+  <path style="fill: rgb(254, 201, 167); stroke: none; transform-origin: 400px 200px;" d="M 14.259 171.505 L 14.713 172.037 L 14.259 171.505 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 61.024 171.505 L 61.478 172.037 L 61.024 171.505 M 103.703 171.505 L 104.157 172.037 L 103.703 171.505 Z"/>
+  <path style="fill: rgb(254, 184, 138); stroke: none; transform-origin: 400px 200px;" d="M 15.167 172.037 L 15.621 172.57 L 15.167 172.037 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 61.932 172.037 L 62.386 172.57 L 61.932 172.037 Z"/>
+  <path style="fill: rgb(254, 201, 167); stroke: none; transform-origin: 400px 200px;" d="M 102.795 172.037 L 103.249 172.57 L 102.795 172.037 M 149.56 172.037 L 150.014 172.57 L 149.56 172.037 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 16.075 172.57 L 16.529 173.103 L 16.075 172.57 M 148.652 172.57 L 149.106 173.103 L 148.652 172.57 Z"/>
+  <path style="fill: rgb(253, 165, 108); stroke: none; transform-origin: 400px 200px;" d="M 63.294 173.103 L 63.748 173.635 L 63.294 173.103 Z"/>
+  <path style="fill: rgb(253, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 101.433 173.103 L 101.887 173.635 L 101.433 173.103 Z"/>
+  <path style="fill: rgb(254, 202, 167); stroke: none; transform-origin: 400px 200px;" d="M 17.437 173.635 L 17.891 174.168 L 17.437 173.635 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 64.202 173.635 L 64.656 174.168 L 64.202 173.635 M 100.525 173.635 L 100.979 174.168 L 100.525 173.635 M 18.345 174.168 L 18.799 174.7 L 18.345 174.168 Z"/>
+  <path style="fill: rgb(253, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 65.11 174.168 L 65.564 174.7 L 65.11 174.168 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 146.382 174.168 L 146.836 174.7 L 146.382 174.168 M 19.253 174.7 L 19.707 175.233 L 19.253 174.7 M 145.474 174.7 L 145.928 175.233 L 145.474 174.7 M 66.472 175.233 L 66.926 175.766 L 66.472 175.233 M 98.254 175.233 L 98.709 175.766 L 98.254 175.233 Z"/>
+  <path style="fill: rgb(254, 201, 167); stroke: none; transform-origin: 400px 200px;" d="M 20.615 175.766 L 21.069 176.298 L 20.615 175.766 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 67.38 175.766 L 67.835 176.298 L 67.38 175.766 M 97.346 175.766 L 97.8 176.298 L 97.346 175.766 Z"/>
+  <path style="fill: rgb(254, 184, 138); stroke: none; transform-origin: 400px 200px;" d="M 21.523 176.298 L 21.978 176.831 L 21.523 176.298 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 68.289 176.298 L 68.743 176.831 L 68.289 176.298 M 143.203 176.298 L 143.657 176.831 L 143.203 176.298 Z"/>
+  <path style="fill: rgb(254, 184, 138); stroke: none; transform-origin: 400px 200px;" d="M 22.432 176.831 L 22.886 177.363 L 22.432 176.831 Z"/>
+  <path style="fill: rgb(254, 165, 108); stroke: none; transform-origin: 400px 200px;" d="M 95.984 176.831 L 96.438 177.363 L 95.984 176.831 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 142.295 176.831 L 142.749 177.363 L 142.295 176.831 Z"/>
+  <path style="fill: rgb(253, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 69.651 177.363 L 70.105 177.896 L 69.651 177.363 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 95.076 177.363 L 95.53 177.896 L 95.076 177.363 Z"/>
+  <path style="fill: rgb(254, 184, 138); stroke: none; transform-origin: 400px 200px;" d="M 23.794 177.896 L 24.248 178.429 L 23.794 177.896 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 70.559 177.896 L 71.013 178.429 L 70.559 177.896 Z"/>
+  <path style="fill: rgb(254, 201, 167); stroke: none; transform-origin: 400px 200px;" d="M 94.168 177.896 L 94.622 178.429 L 94.168 177.896 M 140.933 177.896 L 141.387 178.429 L 140.933 177.896 Z"/>
+  <path style="fill: rgb(254, 184, 138); stroke: none; transform-origin: 400px 200px;" d="M 24.702 178.429 L 25.156 178.961 L 24.702 178.429 Z"/>
+  <path style="fill: rgb(254, 201, 167); stroke: none; transform-origin: 400px 200px;" d="M 71.467 178.429 L 71.921 178.961 L 71.467 178.429 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 140.025 178.429 L 140.479 178.961 L 140.025 178.429 Z"/>
+  <path style="fill: rgb(254, 166, 108); stroke: none; transform-origin: 400px 200px;" d="M 25.61 178.961 L 26.064 179.494 L 25.61 178.961 M 71.921 178.961 L 72.375 179.494 L 71.921 178.961 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 92.806 178.961 L 93.26 179.494 L 92.806 178.961 Z"/>
+  <path style="fill: rgb(254, 166, 108); stroke: none; transform-origin: 400px 200px;" d="M 139.117 178.961 L 139.571 179.494 L 139.117 178.961 Z"/>
+  <path style="fill: rgb(254, 201, 167); stroke: none; transform-origin: 400px 200px;" d="M 26.064 179.494 L 26.518 180.027 L 26.064 179.494 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 72.829 179.494 L 73.283 180.027 L 72.829 179.494 M 91.898 179.494 L 92.352 180.027 L 91.898 179.494 M 26.972 180.027 L 27.426 180.559 L 26.972 180.027 M 73.737 180.027 L 74.191 180.559 L 73.737 180.027 M 137.755 180.027 L 138.209 180.559 L 137.755 180.027 Z"/>
+  <path style="fill: rgb(253, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 27.88 180.559 L 28.334 181.092 L 27.88 180.559 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 136.847 180.559 L 137.301 181.092 L 136.847 180.559 Z"/>
+  <path style="fill: rgb(254, 165, 108); stroke: none; transform-origin: 400px 200px;" d="M 75.099 181.092 L 75.553 181.624 L 75.099 181.092 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 89.628 181.092 L 90.082 181.624 L 89.628 181.092 Z"/>
+  <path style="fill: rgb(254, 201, 166); stroke: none; transform-origin: 400px 200px;" d="M 29.242 181.624 L 29.696 182.157 L 29.242 181.624 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 76.007 181.624 L 76.461 182.157 L 76.007 181.624 Z"/>
+  <path style="fill: rgb(253, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 88.72 181.624 L 89.174 182.157 L 88.72 181.624 Z"/>
+  <path style="fill: rgb(254, 184, 138); stroke: none; transform-origin: 400px 200px;" d="M 30.15 182.157 L 30.604 182.69 L 30.15 182.157 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 76.915 182.157 L 77.369 182.69 L 76.915 182.157 M 134.577 182.157 L 135.031 182.69 L 134.577 182.157 Z"/>
+  <path style="fill: rgb(254, 184, 138); stroke: none; transform-origin: 400px 200px;" d="M 31.058 182.69 L 31.512 183.222 L 31.058 182.69 Z"/>
+  <path style="fill: rgb(254, 165, 108); stroke: none; transform-origin: 400px 200px;" d="M 87.358 182.69 L 87.812 183.222 L 87.358 182.69 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 133.669 182.69 L 134.123 183.222 L 133.669 182.69 Z"/>
+  <path style="fill: rgb(254, 166, 108); stroke: none; transform-origin: 400px 200px;" d="M 78.277 183.222 L 78.731 183.755 L 78.277 183.222 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 86.45 183.222 L 86.904 183.755 L 86.45 183.222 Z"/>
+  <path style="fill: rgb(254, 201, 167); stroke: none; transform-origin: 400px 200px;" d="M 32.42 183.755 L 32.874 184.288 L 32.42 183.755 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 79.185 183.755 L 79.639 184.288 L 79.185 183.755 M 85.542 183.755 L 85.996 184.288 L 85.542 183.755 Z"/>
+  <path style="fill: rgb(254, 201, 166); stroke: none; transform-origin: 400px 200px;" d="M 132.307 183.755 L 132.761 184.288 L 132.307 183.755 Z"/>
+  <path style="fill: rgb(254, 184, 138); stroke: none; transform-origin: 400px 200px;" d="M 33.328 184.288 L 33.782 184.82 L 33.328 184.288 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 80.093 184.288 L 80.547 184.82 L 80.093 184.288 M 131.399 184.288 L 131.853 184.82 L 131.399 184.288 M 34.236 184.82 L 34.69 185.353 L 34.236 184.82 M 84.18 184.82 L 84.634 185.353 L 84.18 184.82 Z"/>
+  <path style="fill: rgb(253, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 130.491 184.82 L 130.945 185.353 L 130.491 184.82 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 81.455 185.353 L 81.909 185.885 L 81.455 185.353 M 83.272 185.353 L 83.726 185.885 L 83.272 185.353 M 35.598 185.885 L 36.052 186.418 L 35.598 185.885 Z"/>
+  <path style="fill: rgb(253, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 129.128 185.885 L 129.583 186.418 L 129.128 185.885 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 36.506 186.418 L 36.961 186.951 L 36.506 186.418 M 128.22 186.418 L 128.674 186.951 L 128.22 186.418 Z"/>
+  <path style="fill: rgb(254, 166, 108); stroke: none; transform-origin: 400px 200px;" d="M 37.415 186.951 L 37.869 187.483 L 37.415 186.951 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 38.777 188.016 L 39.231 188.549 L 38.777 188.016 M 125.95 188.016 L 126.404 188.549 L 125.95 188.016 Z"/>
+  <path style="fill: rgb(254, 184, 138); stroke: none; transform-origin: 400px 200px;" d="M 39.685 188.549 L 40.139 189.081 L 39.685 188.549 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 125.042 188.549 L 125.496 189.081 L 125.042 188.549 Z"/>
+  <path style="fill: rgb(254, 202, 167); stroke: none; transform-origin: 400px 200px;" d="M 41.047 189.614 L 41.501 190.146 L 41.047 189.614 Z"/>
+  <path style="fill: rgb(254, 184, 138); stroke: none; transform-origin: 400px 200px;" d="M 41.955 190.146 L 42.409 190.679 L 41.955 190.146 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 122.772 190.146 L 123.226 190.679 L 122.772 190.146 M 42.863 190.679 L 43.317 191.212 L 42.863 190.679 M 121.864 190.679 L 122.318 191.212 L 121.864 190.679 Z"/>
+  <path style="fill: rgb(254, 201, 167); stroke: none; transform-origin: 400px 200px;" d="M 44.225 191.744 L 44.679 192.277 L 44.225 191.744 Z"/>
+  <path style="fill: rgb(254, 202, 167); stroke: none; transform-origin: 400px 200px;" d="M 120.502 191.744 L 120.956 192.277 L 120.502 191.744 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 45.133 192.277 L 45.587 192.81 L 45.133 192.277 Z"/>
+  <path style="fill: rgb(253, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 119.594 192.277 L 120.048 192.81 L 119.594 192.277 Z"/>
+  <path style="fill: rgb(254, 184, 138); stroke: none; transform-origin: 400px 200px;" d="M 46.041 192.81 L 46.495 193.342 L 46.041 192.81 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 47.403 193.875 L 47.857 194.407 L 47.403 193.875 M 117.324 193.875 L 117.778 194.407 L 117.324 193.875 Z"/>
+  <path style="fill: rgb(254, 184, 138); stroke: none; transform-origin: 400px 200px;" d="M 48.311 194.407 L 48.765 194.94 L 48.311 194.407 Z"/>
+  <path style="fill: rgb(253, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 116.416 194.407 L 116.87 194.94 L 116.416 194.407 Z"/>
+  <path style="fill: rgb(254, 166, 108); stroke: none; transform-origin: 400px 200px;" d="M 49.219 194.94 L 49.673 195.473 L 49.219 194.94 Z"/>
+  <path style="fill: rgb(254, 184, 138); stroke: none; transform-origin: 400px 200px;" d="M 50.581 196.005 L 51.035 196.538 L 50.581 196.005 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 114.146 196.005 L 114.6 196.538 L 114.146 196.005 M 51.489 196.538 L 51.943 197.071 L 51.489 196.538 M 113.237 196.538 L 113.691 197.071 L 113.237 196.538 Z"/>
+  <path style="fill: rgb(254, 201, 167); stroke: none; transform-origin: 400px 200px;" d="M 52.852 197.603 L 53.306 198.136 L 52.852 197.603 Z"/>
+  <path style="fill: rgb(254, 202, 167); stroke: none; transform-origin: 400px 200px;" d="M 111.875 197.603 L 112.329 198.136 L 111.875 197.603 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 53.76 198.136 L 54.214 198.668 L 53.76 198.136 M 110.967 198.136 L 111.421 198.668 L 110.967 198.136 Z"/>
+  <path style="fill: rgb(253, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 54.668 198.668 L 55.122 199.201 L 54.668 198.668 Z"/>
+  <path style="fill: rgb(254, 166, 108); stroke: none; transform-origin: 400px 200px;" d="M 110.059 198.668 L 110.513 199.201 L 110.059 198.668 Z"/>
+  <path style="fill: rgb(254, 201, 166); stroke: none; transform-origin: 400px 200px;" d="M 56.03 199.734 L 56.484 200.266 L 56.03 199.734 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 108.697 199.734 L 109.151 200.266 L 108.697 199.734 Z"/>
+  <path style="fill: rgb(254, 184, 138); stroke: none; transform-origin: 400px 200px;" d="M 56.938 200.266 L 57.392 200.799 L 56.938 200.266 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 107.789 200.266 L 108.243 200.799 L 107.789 200.266 Z"/>
+  <path style="fill: rgb(253, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 57.846 200.799 L 58.3 201.332 L 57.846 200.799 Z"/>
+  <path style="fill: rgb(254, 202, 167); stroke: none; transform-origin: 400px 200px;" d="M 59.208 201.864 L 59.662 202.397 L 59.208 201.864 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 105.519 201.864 L 105.973 202.397 L 105.519 201.864 M 60.116 202.397 L 60.57 202.929 L 60.116 202.397 M 104.611 202.397 L 105.065 202.929 L 104.611 202.397 Z"/>
+  <path style="fill: rgb(253, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 61.024 202.929 L 61.478 203.462 L 61.024 202.929 Z"/>
+  <path style="fill: rgb(254, 202, 167); stroke: none; transform-origin: 400px 200px;" d="M 103.249 203.462 L 103.703 203.995 L 103.249 203.462 Z"/>
+  <path style="fill: rgb(253, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 62.386 203.995 L 62.84 204.527 L 62.386 203.995 M 102.341 203.995 L 102.795 204.527 L 102.341 203.995 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 63.294 204.527 L 63.748 205.06 L 63.294 204.527 M 101.433 204.527 L 101.887 205.06 L 101.433 204.527 Z"/>
+  <path style="fill: rgb(253, 165, 108); stroke: none; transform-origin: 400px 200px;" d="M 64.202 205.06 L 64.656 205.593 L 64.202 205.06 Z"/>
+  <path style="fill: rgb(254, 201, 167); stroke: none; transform-origin: 400px 200px;" d="M 64.656 205.593 L 65.11 206.125 L 64.656 205.593 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 100.071 205.593 L 100.525 206.125 L 100.071 205.593 Z"/>
+  <path style="fill: rgb(254, 184, 138); stroke: none; transform-origin: 400px 200px;" d="M 65.564 206.125 L 66.018 206.658 L 65.564 206.125 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 99.163 206.125 L 99.617 206.658 L 99.163 206.125 Z"/>
+  <path style="fill: rgb(254, 184, 138); stroke: none; transform-origin: 400px 200px;" d="M 66.472 206.658 L 66.926 207.19 L 66.472 206.658 Z"/>
+  <path style="fill: rgb(254, 202, 167); stroke: none; transform-origin: 400px 200px;" d="M 67.835 207.723 L 68.289 208.256 L 67.835 207.723 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 96.892 207.723 L 97.346 208.256 L 96.892 207.723 M 68.743 208.256 L 69.197 208.788 L 68.743 208.256 M 95.984 208.256 L 96.438 208.788 L 95.984 208.256 M 69.651 208.788 L 70.105 209.321 L 69.651 208.788 Z"/>
+  <path style="fill: rgb(254, 201, 167); stroke: none; transform-origin: 400px 200px;" d="M 71.013 209.854 L 71.467 210.386 L 71.013 209.854 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 93.714 209.854 L 94.168 210.386 L 93.714 209.854 M 71.921 210.386 L 72.375 210.919 L 71.921 210.386 M 92.806 210.386 L 93.26 210.919 L 92.806 210.386 Z"/>
+  <path style="fill: rgb(254, 184, 138); stroke: none; transform-origin: 400px 200px;" d="M 72.829 210.919 L 73.283 211.451 L 72.829 210.919 Z"/>
+  <path style="fill: rgb(253, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 91.444 211.451 L 91.898 211.984 L 91.444 211.451 Z"/>
+  <path style="fill: rgb(254, 184, 138); stroke: none; transform-origin: 400px 200px;" d="M 74.191 211.984 L 74.645 212.517 L 74.191 211.984 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 90.536 211.984 L 90.99 212.517 L 90.536 211.984 Z"/>
+  <path style="fill: rgb(254, 184, 138); stroke: none; transform-origin: 400px 200px;" d="M 75.099 212.517 L 75.553 213.049 L 75.099 212.517 Z"/>
+  <path style="fill: rgb(254, 166, 108); stroke: none; transform-origin: 400px 200px;" d="M 76.007 213.049 L 76.461 213.582 L 76.007 213.049 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 88.266 213.582 L 88.72 214.114 L 88.266 213.582 Z"/>
+  <path style="fill: rgb(254, 184, 138); stroke: none; transform-origin: 400px 200px;" d="M 77.369 214.114 L 77.823 214.647 L 77.369 214.114 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 87.358 214.114 L 87.812 214.647 L 87.358 214.114 M 78.277 214.647 L 78.731 215.18 L 78.277 214.647 Z"/>
+  <path style="fill: rgb(254, 201, 167); stroke: none; transform-origin: 400px 200px;" d="M 79.639 215.712 L 80.093 216.245 L 79.639 215.712 Z"/>
+  <path style="fill: rgb(253, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 85.088 215.712 L 85.542 216.245 L 85.088 215.712 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 80.547 216.245 L 81.001 216.778 L 80.547 216.245 M 84.18 216.245 L 84.634 216.778 L 84.18 216.245 Z"/>
+  <path style="fill: rgb(254, 184, 138); stroke: none; transform-origin: 400px 200px;" d="M 81.455 216.778 L 81.909 217.31 L 81.455 216.778 Z"/>
+  <path style="fill: rgb(254, 202, 167); stroke: none; transform-origin: 400px 200px;" d="M 82.817 217.31 L 83.272 217.843 L 82.817 217.31 Z"/>
+  <path style="fill: rgb(155, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 19.707 242.344 L 20.161 242.876 L 19.707 242.344 Z"/>
+  <path style="fill: rgb(205, 207, 209); stroke: none; transform-origin: 400px 200px;" d="M 160.003 242.344 L 160.457 242.876 L 160.003 242.344 Z"/>
+  <path style="fill: rgb(205, 206, 208); stroke: none; transform-origin: 400px 200px;" d="M 216.756 242.344 L 217.21 242.876 L 216.756 242.344 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 230.377 242.344 L 230.831 242.876 L 230.377 242.344 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 161.365 242.876 L 161.819 243.409 L 161.365 242.876 M 216.756 242.876 L 217.21 243.409 L 216.756 242.876 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 5.994 243.409 L 6.448 243.941 L 5.994 243.409 Z"/>
+  <path style="fill: rgb(131, 134, 139); stroke: none; transform-origin: 400px 200px;" d="M 91.444 243.409 L 91.898 243.941 L 91.444 243.409 Z"/>
+  <path style="fill: rgb(205, 207, 209); stroke: none; transform-origin: 400px 200px;" d="M 110.059 243.409 L 110.513 243.941 L 110.059 243.409 Z"/>
+  <path style="fill: rgb(131, 134, 139); stroke: none; transform-origin: 400px 200px;" d="M 162.273 243.409 L 162.727 243.941 L 162.273 243.409 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 5.086 243.941 L 5.54 244.474 L 5.086 243.941 Z"/>
+  <path style="fill: rgb(205, 207, 209); stroke: none; transform-origin: 400px 200px;" d="M 20.161 243.941 L 20.615 244.474 L 20.161 243.941 Z"/>
+  <path style="fill: rgb(131, 134, 139); stroke: none; transform-origin: 400px 200px;" d="M 163.181 243.941 L 163.635 244.474 L 163.181 243.941 Z"/>
+  <path style="fill: rgb(181, 183, 186); stroke: none; transform-origin: 400px 200px;" d="M 400.546 243.941 L 401 244.474 L 400.546 243.941 Z"/>
+  <path style="fill: rgb(106, 110, 116); stroke: none; transform-origin: 400px 200px;" d="M 4.632 244.474 L 5.086 245.007 L 4.632 244.474 Z"/>
+  <path style="fill: rgb(131, 134, 139); stroke: none; transform-origin: 400px 200px;" d="M 73.645 244.474 L 74.099 245.007 L 73.645 244.474 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 20.161 244.474 L 20.615 245.007 L 20.161 244.474 Z"/>
+  <path style="fill: rgb(131, 134, 139); stroke: none; transform-origin: 400px 200px;" d="M 109.605 244.474 L 110.059 245.007 L 109.605 244.474 Z"/>
+  <path style="fill: rgb(106, 110, 116); stroke: none; transform-origin: 400px 200px;" d="M 349.241 244.474 L 349.695 245.007 L 349.241 244.474 M 4.178 245.007 L 4.632 245.539 L 4.178 245.007 Z"/>
+  <path style="fill: rgb(180, 182, 186); stroke: none; transform-origin: 400px 200px;" d="M 109.605 245.007 L 110.059 245.539 L 109.605 245.007 Z"/>
+  <path style="fill: rgb(181, 183, 186); stroke: none; transform-origin: 400px 200px;" d="M 164.543 245.007 L 164.997 245.539 L 164.543 245.007 Z"/>
+  <path style="fill: rgb(205, 206, 208); stroke: none; transform-origin: 400px 200px;" d="M 217.21 245.007 L 217.664 245.539 L 217.21 245.007 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 230.831 245.007 L 231.285 245.539 L 230.831 245.007 Z"/>
+  <path style="fill: rgb(106, 110, 116); stroke: none; transform-origin: 400px 200px;" d="M 3.724 245.539 L 4.178 246.072 L 3.724 245.539 Z"/>
+  <path style="fill: rgb(205, 207, 209); stroke: none; transform-origin: 400px 200px;" d="M 37.776 245.539 L 38.23 246.072 L 37.776 245.539 Z"/>
+  <path style="fill: rgb(131, 134, 139); stroke: none; transform-origin: 400px 200px;" d="M 90.99 245.539 L 91.444 246.072 L 90.99 245.539 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 367.402 245.539 L 367.856 246.072 L 367.402 245.539 Z"/>
+  <path style="fill: rgb(106, 110, 116); stroke: none; transform-origin: 400px 200px;" d="M 3.27 246.072 L 3.724 246.605 L 3.27 246.072 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 37.776 246.072 L 38.23 246.605 L 37.776 246.072 Z"/>
+  <path style="fill: rgb(205, 207, 209); stroke: none; transform-origin: 400px 200px;" d="M 20.615 246.072 L 21.069 246.605 L 20.615 246.072 Z"/>
+  <path style="fill: rgb(205, 207, 208); stroke: none; transform-origin: 400px 200px;" d="M 165.451 246.072 L 165.905 246.605 L 165.451 246.072 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 2.816 246.605 L 3.27 247.137 L 2.816 246.605 Z"/>
+  <path style="fill: rgb(131, 134, 139); stroke: none; transform-origin: 400px 200px;" d="M 109.151 246.605 L 109.605 247.137 L 109.151 246.605 Z"/>
+  <path style="fill: rgb(181, 183, 186); stroke: none; transform-origin: 400px 200px;" d="M 90.536 247.137 L 90.99 247.67 L 90.536 247.137 M 109.151 247.137 L 109.605 247.67 L 109.151 247.137 Z"/>
+  <path style="fill: rgb(131, 134, 139); stroke: none; transform-origin: 400px 200px;" d="M 165.905 247.137 L 166.359 247.67 L 165.905 247.137 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 94.076 247.67 L 94.53 248.202 L 94.076 247.67 Z"/>
+  <path style="fill: rgb(131, 134, 139); stroke: none; transform-origin: 400px 200px;" d="M 90.536 247.67 L 90.99 248.202 L 90.536 247.67 Z"/>
+  <path style="fill: rgb(181, 183, 186); stroke: none; transform-origin: 400px 200px;" d="M 1.908 248.202 L 2.362 248.735 L 1.908 248.202 Z"/>
+  <path style="fill: rgb(205, 207, 209); stroke: none; transform-origin: 400px 200px;" d="M 38.23 248.202 L 38.684 248.735 L 38.23 248.202 Z"/>
+  <path style="fill: rgb(131, 134, 139); stroke: none; transform-origin: 400px 200px;" d="M 166.359 248.202 L 166.813 248.735 L 166.359 248.202 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 231.285 248.202 L 231.739 248.735 L 231.285 248.202 Z"/>
+  <path style="fill: rgb(106, 110, 116); stroke: none; transform-origin: 400px 200px;" d="M 1.908 248.735 L 2.362 249.268 L 1.908 248.735 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 38.23 248.735 L 38.684 249.268 L 38.23 248.735 Z"/>
+  <path style="fill: rgb(131, 134, 139); stroke: none; transform-origin: 400px 200px;" d="M 21.069 248.735 L 21.523 249.268 L 21.069 248.735 M 108.697 248.735 L 109.151 249.268 L 108.697 248.735 Z"/>
+  <path style="fill: rgb(205, 206, 208); stroke: none; transform-origin: 400px 200px;" d="M 166.813 248.735 L 167.267 249.268 L 166.813 248.735 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 217.664 248.735 L 218.118 249.268 L 217.664 248.735 Z"/>
+  <path style="fill: rgb(205, 207, 209); stroke: none; transform-origin: 400px 200px;" d="M 1.454 249.268 L 1.908 249.8 L 1.454 249.268 Z"/>
+  <path style="fill: rgb(131, 134, 139); stroke: none; transform-origin: 400px 200px;" d="M 166.813 249.268 L 167.267 249.8 L 166.813 249.268 Z"/>
+  <path style="fill: rgb(131, 134, 139); stroke: none; transform-origin: 400px 200px;" d="M 1.454 249.8 L 1.908 250.333 L 1.454 249.8 Z"/>
+  <path style="fill: rgb(131, 134, 139); stroke: none; transform-origin: 400px 200px;" d="M 90.082 249.8 L 90.536 250.333 L 90.082 249.8 Z"/>
+  <path style="fill: rgb(131, 134, 139); stroke: none; transform-origin: 400px 200px;" d="M 72.737 250.333 L 73.191 250.865 L 72.737 250.333 Z"/>
+  <path style="fill: rgb(205, 207, 209); stroke: none; transform-origin: 400px 200px;" d="M 21.523 250.333 L 21.978 250.865 L 21.523 250.333 Z"/>
+  <path style="fill: rgb(204, 206, 208); stroke: none; transform-origin: 400px 200px;" d="M 167.267 250.333 L 167.721 250.865 L 167.267 250.333 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 94.53 250.865 L 94.984 251.398 L 94.53 250.865 Z"/>
+  <path style="fill: rgb(131, 134, 139); stroke: none; transform-origin: 400px 200px;" d="M 21.523 250.865 L 21.978 251.398 L 21.523 250.865 M 108.243 250.865 L 108.697 251.398 L 108.243 250.865 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 167.267 250.865 L 167.721 251.398 L 167.267 250.865 Z"/>
+  <path style="fill: rgb(204, 206, 208); stroke: none; transform-origin: 400px 200px;" d="M 218.118 250.865 L 218.572 251.398 L 218.118 250.865 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 231.739 250.865 L 232.193 251.398 L 231.739 250.865 Z"/>
+  <path style="fill: rgb(181, 183, 186); stroke: none; transform-origin: 400px 200px;" d="M 1 251.398 L 1.454 251.931 L 1 251.398 Z"/>
+  <path style="fill: rgb(181, 183, 186); stroke: none; transform-origin: 400px 200px;" d="M 89.628 251.398 L 90.082 251.931 L 89.628 251.398 M 108.243 251.398 L 108.697 251.931 L 108.243 251.398 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 218.118 251.398 L 218.572 251.931 L 218.118 251.398 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 38.684 251.931 L 39.138 252.463 L 38.684 251.931 Z"/>
+  <path style="fill: rgb(180, 182, 186); stroke: none; transform-origin: 400px 200px;" d="M 399.184 252.463 L 399.638 252.996 L 399.184 252.463 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 94.984 253.529 L 95.438 254.061 L 94.984 253.529 Z"/>
+  <path style="fill: rgb(180, 182, 186); stroke: none; transform-origin: 400px 200px;" d="M 107.789 253.529 L 108.243 254.061 L 107.789 253.529 Z"/>
+  <path style="fill: rgb(204, 206, 208); stroke: none; transform-origin: 400px 200px;" d="M 39.138 254.061 L 39.593 254.594 L 39.138 254.061 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 39.138 254.594 L 39.593 255.126 L 39.138 254.594 Z"/>
+  <path style="fill: rgb(131, 134, 139); stroke: none; transform-origin: 400px 200px;" d="M 89.174 254.594 L 89.628 255.126 L 89.174 254.594 Z"/>
+  <path style="fill: rgb(205, 207, 209); stroke: none; transform-origin: 400px 200px;" d="M 107.335 255.659 L 107.789 256.192 L 107.335 255.659 Z"/>
+  <path style="fill: rgb(131, 134, 139); stroke: none; transform-origin: 400px 200px;" d="M 71.829 256.192 L 72.283 256.724 L 71.829 256.192 Z"/>
+  <path style="fill: rgb(205, 207, 209); stroke: none; transform-origin: 400px 200px;" d="M 22.886 256.192 L 23.34 256.724 L 22.886 256.192 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 95.438 256.724 L 95.892 257.257 L 95.438 256.724 M 141.295 256.724 L 141.749 257.257 L 141.295 256.724 Z"/>
+  <path style="fill: rgb(131, 134, 139); stroke: none; transform-origin: 400px 200px;" d="M 207.129 256.724 L 207.583 257.257 L 207.129 256.724 M 225.291 256.724 L 225.745 257.257 L 225.291 256.724 Z"/>
+  <path style="fill: rgb(181, 183, 186); stroke: none; transform-origin: 400px 200px;" d="M 225.291 257.257 L 225.745 257.79 L 225.291 257.257 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 337.436 257.257 L 337.89 257.79 L 337.436 257.257 Z"/>
+  <path style="fill: rgb(205, 207, 209); stroke: none; transform-origin: 400px 200px;" d="M 141.749 258.322 L 142.203 258.855 L 141.749 258.322 Z"/>
+  <path style="fill: rgb(181, 183, 186); stroke: none; transform-origin: 400px 200px;" d="M 206.675 258.322 L 207.129 258.855 L 206.675 258.322 Z"/>
+  <path style="fill: rgb(181, 183, 186); stroke: none; transform-origin: 400px 200px;" d="M 398.276 258.322 L 398.73 258.855 L 398.276 258.322 Z"/>
+  <path style="fill: rgb(205, 207, 209); stroke: none; transform-origin: 400px 200px;" d="M 95.892 258.855 L 96.346 259.387 L 95.892 258.855 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 141.749 258.855 L 142.203 259.387 L 141.749 258.855 Z"/>
+  <path style="fill: rgb(131, 134, 139); stroke: none; transform-origin: 400px 200px;" d="M 206.675 258.855 L 207.129 259.387 L 206.675 258.855 M 224.837 258.855 L 225.291 259.387 L 224.837 258.855 Z"/>
+  <path style="fill: rgb(106, 110, 116); stroke: none; transform-origin: 400px 200px;" d="M 351.511 258.855 L 351.965 259.387 L 351.511 258.855 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 95.892 259.387 L 96.346 259.92 L 95.892 259.387 Z"/>
+  <path style="fill: rgb(181, 183, 186); stroke: none; transform-origin: 400px 200px;" d="M 224.837 259.387 L 225.291 259.92 L 224.837 259.387 Z"/>
+  <path style="fill: rgb(205, 207, 209); stroke: none; transform-origin: 400px 200px;" d="M 337.89 259.387 L 338.344 259.92 L 337.89 259.387 Z"/>
+  <path style="fill: rgb(155, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 351.511 259.387 L 351.965 259.92 L 351.511 259.387 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 40.047 260.453 L 40.501 260.985 L 40.047 260.453 Z"/>
+  <path style="fill: rgb(204, 206, 208); stroke: none; transform-origin: 400px 200px;" d="M 142.203 260.453 L 142.657 260.985 L 142.203 260.453 Z"/>
+  <path style="fill: rgb(181, 183, 186); stroke: none; transform-origin: 400px 200px;" d="M 206.221 260.453 L 206.675 260.985 L 206.221 260.453 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 142.203 260.985 L 142.657 261.518 L 142.203 260.985 Z"/>
+  <path style="fill: rgb(131, 134, 139); stroke: none; transform-origin: 400px 200px;" d="M 206.221 260.985 L 206.675 261.518 L 206.221 260.985 M 224.383 260.985 L 224.837 261.518 L 224.383 260.985 Z"/>
+  <path style="fill: rgb(181, 183, 186); stroke: none; transform-origin: 400px 200px;" d="M 267.515 260.985 L 267.969 261.518 L 267.515 260.985 Z"/>
+  <path style="fill: rgb(180, 182, 186); stroke: none; transform-origin: 400px 200px;" d="M 224.383 261.518 L 224.837 262.051 L 224.383 261.518 Z"/>
+  <path style="fill: rgb(181, 183, 186); stroke: none; transform-origin: 400px 200px;" d="M 267.969 261.518 L 268.423 262.051 L 267.969 261.518 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 19.615 262.051 L 20.069 262.583 L 19.615 262.051 Z"/>
+  <path style="fill: rgb(131, 134, 139); stroke: none; transform-origin: 400px 200px;" d="M 70.921 262.051 L 71.375 262.583 L 70.921 262.051 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 19.161 262.583 L 19.615 263.116 L 19.161 262.583 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 96.346 262.583 L 96.8 263.116 L 96.346 262.583 Z"/>
+  <path style="fill: rgb(205, 207, 209); stroke: none; transform-origin: 400px 200px;" d="M 142.657 262.583 L 143.111 263.116 L 142.657 262.583 Z"/>
+  <path style="fill: rgb(181, 183, 186); stroke: none; transform-origin: 400px 200px;" d="M 205.767 262.583 L 206.221 263.116 L 205.767 262.583 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 351.965 262.583 L 352.419 263.116 L 351.965 262.583 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 142.657 263.116 L 143.111 263.648 L 142.657 263.116 Z"/>
+  <path style="fill: rgb(131, 134, 139); stroke: none; transform-origin: 400px 200px;" d="M 223.928 263.116 L 224.383 263.648 L 223.928 263.116 Z"/>
+  <path style="fill: rgb(181, 183, 186); stroke: none; transform-origin: 400px 200px;" d="M 223.928 263.648 L 224.383 264.181 L 223.928 263.648 Z"/>
+  <path style="fill: rgb(204, 205, 207); stroke: none; transform-origin: 400px 200px;" d="M 96.8 264.714 L 97.254 265.246 L 96.8 264.714 Z"/>
+  <path style="fill: rgb(205, 207, 209); stroke: none; transform-origin: 400px 200px;" d="M 143.111 264.714 L 143.565 265.246 L 143.111 264.714 Z"/>
+  <path style="fill: rgb(107, 111, 117); stroke: none; transform-origin: 400px 200px;" d="M 352.419 264.714 L 352.873 265.246 L 352.419 264.714 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 143.111 265.246 L 143.565 265.779 L 143.111 265.246 M 352.419 265.246 L 352.873 265.779 L 352.419 265.246 Z"/>
+  <path style="fill: rgb(131, 134, 139); stroke: none; transform-origin: 400px 200px;" d="M 205.313 265.779 L 205.767 266.312 L 205.313 265.779 Z"/>
+  <path style="fill: rgb(181, 183, 186); stroke: none; transform-origin: 400px 200px;" d="M 223.474 265.779 L 223.928 266.312 L 223.474 265.779 Z"/>
+  <path style="fill: rgb(205, 207, 209); stroke: none; transform-origin: 400px 200px;" d="M 143.565 266.844 L 144.019 267.377 L 143.565 266.844 Z"/>
+  <path style="fill: rgb(181, 183, 186); stroke: none; transform-origin: 400px 200px;" d="M 396.914 266.844 L 397.368 267.377 L 396.914 266.844 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 143.565 267.377 L 144.019 267.909 L 143.565 267.377 Z"/>
+  <path style="fill: rgb(131, 134, 139); stroke: none; transform-origin: 400px 200px;" d="M 204.859 267.909 L 205.313 268.442 L 204.859 267.909 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 97.254 268.442 L 97.708 268.975 L 97.254 268.442 Z"/>
+  <path style="fill: rgb(204, 206, 208); stroke: none; transform-origin: 400px 200px;" d="M 144.019 268.975 L 144.473 269.507 L 144.019 268.975 Z"/>
+  <path style="fill: rgb(131, 134, 139); stroke: none; transform-origin: 400px 200px;" d="M 222.566 268.975 L 223.02 269.507 L 222.566 268.975 Z"/>
+  <path style="fill: rgb(181, 183, 186); stroke: none; transform-origin: 400px 200px;" d="M 204.405 269.507 L 204.859 270.04 L 204.405 269.507 Z"/>
+  <path style="fill: rgb(180, 182, 186); stroke: none; transform-origin: 400px 200px;" d="M 222.566 269.507 L 223.02 270.04 L 222.566 269.507 Z"/>
+  <path style="fill: rgb(131, 134, 139); stroke: none; transform-origin: 400px 200px;" d="M 204.405 270.04 L 204.859 270.573 L 204.405 270.04 Z"/>
+  <path style="fill: rgb(205, 207, 209); stroke: none; transform-origin: 400px 200px;" d="M 97.708 270.573 L 98.162 271.105 L 97.708 270.573 Z"/>
+  <path style="fill: rgb(205, 207, 209); stroke: none; transform-origin: 400px 200px;" d="M 144.473 271.105 L 144.927 271.638 L 144.473 271.105 Z"/>
+  <path style="fill: rgb(131, 134, 139); stroke: none; transform-origin: 400px 200px;" d="M 222.112 271.105 L 222.566 271.638 L 222.112 271.105 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 353.327 271.105 L 353.781 271.638 L 353.327 271.105 M 144.473 271.638 L 144.927 272.17 L 144.473 271.638 Z"/>
+  <path style="fill: rgb(181, 183, 186); stroke: none; transform-origin: 400px 200px;" d="M 203.951 271.638 L 204.405 272.17 L 203.951 271.638 M 222.112 271.638 L 222.566 272.17 L 222.112 271.638 Z"/>
+  <path style="fill: rgb(131, 134, 139); stroke: none; transform-origin: 400px 200px;" d="M 203.951 272.17 L 204.405 272.703 L 203.951 272.17 Z"/>
+  <path style="fill: rgb(180, 182, 186); stroke: none; transform-origin: 400px 200px;" d="M 396.006 272.703 L 396.46 273.236 L 396.006 272.703 Z"/>
+  <path style="fill: rgb(130, 134, 139); stroke: none; transform-origin: 400px 200px;" d="M 221.658 273.236 L 222.112 273.768 L 221.658 273.236 Z"/>
+  <path style="fill: rgb(107, 111, 117); stroke: none; transform-origin: 400px 200px;" d="M 353.781 273.236 L 354.235 273.768 L 353.781 273.236 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 144.927 273.768 L 145.381 274.301 L 144.927 273.768 Z"/>
+  <path style="fill: rgb(181, 183, 186); stroke: none; transform-origin: 400px 200px;" d="M 203.497 273.768 L 203.951 274.301 L 203.497 273.768 M 221.658 273.768 L 222.112 274.301 L 221.658 273.768 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 353.781 273.768 L 354.235 274.301 L 353.781 273.768 Z"/>
+  <path style="fill: rgb(155, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 98.162 274.301 L 98.616 274.834 L 98.162 274.301 Z"/>
+  <path style="fill: rgb(205, 206, 208); stroke: none; transform-origin: 400px 200px;" d="M 145.381 275.366 L 145.835 275.899 L 145.381 275.366 Z"/>
+  <path style="fill: rgb(131, 134, 139); stroke: none; transform-origin: 400px 200px;" d="M 221.204 275.366 L 221.658 275.899 L 221.204 275.366 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 145.381 275.899 L 145.835 276.431 L 145.381 275.899 Z"/>
+  <path style="fill: rgb(180, 182, 186); stroke: none; transform-origin: 400px 200px;" d="M 221.204 275.899 L 221.658 276.431 L 221.204 275.899 Z"/>
+  <path style="fill: rgb(203, 205, 207); stroke: none; transform-origin: 400px 200px;" d="M 98.616 276.431 L 99.07 276.964 L 98.616 276.431 Z"/>
+  <path style="fill: rgb(131, 134, 139); stroke: none; transform-origin: 400px 200px;" d="M 68.65 276.964 L 69.104 277.497 L 68.65 276.964 Z"/>
+  <path style="fill: rgb(131, 134, 139); stroke: none; transform-origin: 400px 200px;" d="M 203.043 276.964 L 203.497 277.497 L 203.043 276.964 Z"/>
+  <path style="fill: rgb(204, 206, 208); stroke: none; transform-origin: 400px 200px;" d="M 145.835 277.497 L 146.289 278.029 L 145.835 277.497 Z"/>
+  <path style="fill: rgb(131, 134, 139); stroke: none; transform-origin: 400px 200px;" d="M 220.75 277.497 L 221.204 278.029 L 220.75 277.497 Z"/>
+  <path style="fill: rgb(131, 134, 139); stroke: none; transform-origin: 400px 200px;" d="M 145.835 278.029 L 146.289 278.562 L 145.835 278.029 Z"/>
+  <path style="fill: rgb(181, 183, 186); stroke: none; transform-origin: 400px 200px;" d="M 220.75 278.029 L 221.204 278.562 L 220.75 278.029 Z"/>
+  <path style="fill: rgb(205, 206, 208); stroke: none; transform-origin: 400px 200px;" d="M 99.07 279.627 L 99.524 280.16 L 99.07 279.627 M 146.289 279.627 L 146.743 280.16 L 146.289 279.627 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 354.689 279.627 L 355.143 280.16 L 354.689 279.627 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 99.07 280.16 L 99.524 280.692 L 99.07 280.16 Z"/>
+  <path style="fill: rgb(131, 134, 139); stroke: none; transform-origin: 400px 200px;" d="M 146.289 280.16 L 146.743 280.692 L 146.289 280.16 Z"/>
+  <path style="fill: rgb(205, 207, 209); stroke: none; transform-origin: 400px 200px;" d="M 220.296 280.16 L 220.75 280.692 L 220.296 280.16 Z"/>
+  <path style="fill: rgb(181, 183, 186); stroke: none; transform-origin: 400px 200px;" d="M 202.135 280.692 L 202.589 281.225 L 202.135 280.692 Z"/>
+  <path style="fill: rgb(181, 183, 186); stroke: none; transform-origin: 400px 200px;" d="M 219.842 281.758 L 220.296 282.29 L 219.842 281.758 Z"/>
+  <path style="fill: rgb(131, 134, 139); stroke: none; transform-origin: 400px 200px;" d="M 67.742 282.823 L 68.196 283.355 L 67.742 282.823 Z"/>
+  <path style="fill: rgb(181, 183, 186); stroke: none; transform-origin: 400px 200px;" d="M 201.681 282.823 L 202.135 283.355 L 201.681 282.823 Z"/>
+  <path style="fill: rgb(180, 182, 186); stroke: none; transform-origin: 400px 200px;" d="M 219.388 283.888 L 219.842 284.421 L 219.388 283.888 Z"/>
+  <path style="fill: rgb(180, 182, 185); stroke: none; transform-origin: 400px 200px;" d="M 67.288 284.953 L 67.742 285.486 L 67.288 284.953 Z"/>
+  <path style="fill: rgb(181, 183, 186); stroke: none; transform-origin: 400px 200px;" d="M 201.227 284.953 L 201.681 285.486 L 201.227 284.953 Z"/>
+  <path style="fill: rgb(205, 207, 209); stroke: none; transform-origin: 400px 200px;" d="M 99.978 285.486 L 100.432 286.019 L 99.978 285.486 Z"/>
+  <path style="fill: rgb(131, 134, 139); stroke: none; transform-origin: 400px 200px;" d="M 218.934 285.486 L 219.388 286.019 L 218.934 285.486 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 355.597 285.486 L 356.051 286.019 L 355.597 285.486 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 99.978 286.019 L 100.432 286.551 L 99.978 286.019 Z"/>
+  <path style="fill: rgb(181, 183, 186); stroke: none; transform-origin: 400px 200px;" d="M 218.934 286.019 L 219.388 286.551 L 218.934 286.019 Z"/>
+  <path style="fill: rgb(181, 183, 186); stroke: none; transform-origin: 400px 200px;" d="M 200.773 287.084 L 201.227 287.616 L 200.773 287.084 Z"/>
+  <path style="fill: rgb(107, 111, 117); stroke: none; transform-origin: 400px 200px;" d="M 356.051 287.616 L 356.505 288.149 L 356.051 287.616 Z"/>
+  <path style="fill: rgb(131, 134, 139); stroke: none; transform-origin: 400px 200px;" d="M 66.834 288.682 L 67.288 289.214 L 66.834 288.682 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 84.541 288.682 L 84.995 289.214 L 84.541 288.682 Z"/>
+  <path style="fill: rgb(131, 134, 139); stroke: none; transform-origin: 400px 200px;" d="M 393.282 289.214 L 393.736 289.747 L 393.282 289.214 Z"/>
+  <path style="fill: rgb(131, 134, 139); stroke: none; transform-origin: 400px 200px;" d="M 218.026 289.747 L 218.48 290.28 L 218.026 289.747 Z"/>
+  <path style="fill: rgb(205, 207, 209); stroke: none; transform-origin: 400px 200px;" d="M 100.886 291.345 L 101.341 291.877 L 100.886 291.345 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 356.505 291.345 L 356.959 291.877 L 356.505 291.345 M 100.886 291.877 L 101.341 292.41 L 100.886 291.877 M 218.026 291.877 L 218.48 292.41 L 218.026 291.877 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 218.48 294.008 L 218.934 294.541 L 218.48 294.008 M 356.959 294.008 L 357.413 294.541 L 356.959 294.008 Z"/>
+  <path style="fill: rgb(131, 134, 139); stroke: none; transform-origin: 400px 200px;" d="M 65.926 294.541 L 66.38 295.073 L 65.926 294.541 Z"/>
+  <path style="fill: rgb(179, 181, 185); stroke: none; transform-origin: 400px 200px;" d="M 392.373 295.606 L 392.827 296.138 L 392.373 295.606 Z"/>
+  <path style="fill: rgb(155, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 218.934 296.671 L 219.388 297.204 L 218.934 296.671 Z"/>
+  <path style="fill: rgb(181, 183, 186); stroke: none; transform-origin: 400px 200px;" d="M 81.817 297.204 L 82.271 297.736 L 81.817 297.204 Z"/>
+  <path style="fill: rgb(205, 207, 209); stroke: none; transform-origin: 400px 200px;" d="M 101.795 297.204 L 102.249 297.736 L 101.795 297.204 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 101.795 297.736 L 102.249 298.269 L 101.795 297.736 Z"/>
+  <path style="fill: rgb(204, 206, 208); stroke: none; transform-origin: 400px 200px;" d="M 219.388 298.269 L 219.842 298.802 L 219.388 298.269 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 219.388 298.802 L 219.842 299.334 L 219.388 298.802 Z"/>
+  <path style="fill: rgb(107, 111, 117); stroke: none; transform-origin: 400px 200px;" d="M 357.867 299.334 L 358.321 299.867 L 357.867 299.334 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 357.867 299.867 L 358.321 300.399 L 357.867 299.867 Z"/>
+  <path style="fill: rgb(131, 134, 139); stroke: none; transform-origin: 400px 200px;" d="M 65.018 300.399 L 65.472 300.932 L 65.018 300.399 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 102.249 300.932 L 102.703 301.465 L 102.249 300.932 Z"/>
+  <path style="fill: rgb(204, 206, 208); stroke: none; transform-origin: 400px 200px;" d="M 219.842 300.932 L 220.296 301.465 L 219.842 300.932 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 219.842 301.465 L 220.296 301.997 L 219.842 301.465 Z"/>
+  <path style="fill: rgb(106, 110, 116); stroke: none; transform-origin: 400px 200px;" d="M 358.321 301.997 L 358.775 302.53 L 358.321 301.997 Z"/>
+  <path style="fill: rgb(205, 207, 209); stroke: none; transform-origin: 400px 200px;" d="M 102.703 303.063 L 103.157 303.595 L 102.703 303.063 M 220.296 303.063 L 220.75 303.595 L 220.296 303.063 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 102.703 303.595 L 103.157 304.128 L 102.703 303.595 M 220.296 303.595 L 220.75 304.128 L 220.296 303.595 Z"/>
+  <path style="fill: rgb(131, 134, 139); stroke: none; transform-origin: 400px 200px;" d="M 391.011 303.595 L 391.465 304.128 L 391.011 303.595 Z"/>
+  <path style="fill: rgb(106, 110, 116); stroke: none; transform-origin: 400px 200px;" d="M 201.681 304.128 L 202.135 304.66 L 201.681 304.128 Z"/>
+  <path style="fill: rgb(205, 207, 209); stroke: none; transform-origin: 400px 200px;" d="M 220.75 305.726 L 221.204 306.258 L 220.75 305.726 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 358.775 305.726 L 359.229 306.258 L 358.775 305.726 Z"/>
+  <path style="fill: rgb(131, 134, 139); stroke: none; transform-origin: 400px 200px;" d="M 64.11 306.258 L 64.564 306.791 L 64.11 306.258 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 220.75 306.258 L 221.204 306.791 L 220.75 306.258 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 103.157 306.791 L 103.611 307.324 L 103.157 306.791 M 202.135 306.791 L 202.589 307.324 L 202.135 306.791 Z"/>
+  <path style="fill: rgb(106, 110, 116); stroke: none; transform-origin: 400px 200px;" d="M 138.571 307.324 L 139.025 307.856 L 138.571 307.324 Z"/>
+  <path style="fill: rgb(180, 182, 186); stroke: none; transform-origin: 400px 200px;" d="M 390.557 307.324 L 391.011 307.856 L 390.557 307.324 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 138.571 307.856 L 139.025 308.389 L 138.571 307.856 Z"/>
+  <path style="fill: rgb(204, 206, 208); stroke: none; transform-origin: 400px 200px;" d="M 221.204 307.856 L 221.658 308.389 L 221.204 307.856 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 221.204 308.389 L 221.658 308.921 L 221.204 308.389 M 359.229 308.389 L 359.683 308.921 L 359.229 308.389 Z"/>
+  <path style="fill: rgb(205, 207, 209); stroke: none; transform-origin: 400px 200px;" d="M 103.611 308.921 L 104.065 309.454 L 103.611 308.921 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 86.812 309.454 L 87.266 309.987 L 86.812 309.454 M 103.611 309.454 L 104.065 309.987 L 103.611 309.454 Z"/>
+  <path style="fill: rgb(106, 110, 116); stroke: none; transform-origin: 400px 200px;" d="M 139.025 309.454 L 139.479 309.987 L 139.025 309.454 Z"/>
+  <path style="fill: rgb(155, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 202.589 309.454 L 203.043 309.987 L 202.589 309.454 Z"/>
+  <path style="fill: rgb(132, 135, 140); stroke: none; transform-origin: 400px 200px;" d="M 374.666 309.454 L 375.12 309.987 L 374.666 309.454 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 139.025 309.987 L 139.479 310.519 L 139.025 309.987 Z"/>
+  <path style="fill: rgb(181, 183, 186); stroke: none; transform-origin: 400px 200px;" d="M 390.103 309.987 L 390.557 310.519 L 390.103 309.987 Z"/>
+  <path style="fill: rgb(205, 206, 208); stroke: none; transform-origin: 400px 200px;" d="M 221.658 310.519 L 222.112 311.052 L 221.658 310.519 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 221.658 311.052 L 222.112 311.585 L 221.658 311.052 Z"/>
+  <path style="fill: rgb(107, 110, 116); stroke: none; transform-origin: 400px 200px;" d="M 139.479 311.585 L 139.933 312.117 L 139.479 311.585 Z"/>
+  <path style="fill: rgb(107, 111, 117); stroke: none; transform-origin: 400px 200px;" d="M 203.043 311.585 L 203.497 312.117 L 203.043 311.585 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 359.683 311.585 L 360.137 312.117 L 359.683 311.585 Z"/>
+  <path style="fill: rgb(131, 134, 139); stroke: none; transform-origin: 400px 200px;" d="M 63.202 312.117 L 63.656 312.65 L 63.202 312.117 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 139.479 312.117 L 139.933 312.65 L 139.479 312.117 M 203.043 312.117 L 203.497 312.65 L 203.043 312.117 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 104.065 312.65 L 104.519 313.182 L 104.065 312.65 Z"/>
+  <path style="fill: rgb(106, 110, 116); stroke: none; transform-origin: 400px 200px;" d="M 139.933 313.715 L 140.387 314.248 L 139.933 313.715 Z"/>
+  <path style="fill: rgb(131, 134, 139); stroke: none; transform-origin: 400px 200px;" d="M 222.112 313.715 L 222.566 314.248 L 222.112 313.715 Z"/>
+  <path style="fill: rgb(107, 111, 117); stroke: none; transform-origin: 400px 200px;" d="M 360.137 313.715 L 360.591 314.248 L 360.137 313.715 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 139.933 314.248 L 140.387 314.78 L 139.933 314.248 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 360.137 314.248 L 360.591 314.78 L 360.137 314.248 Z"/>
+  <path style="fill: rgb(205, 206, 208); stroke: none; transform-origin: 400px 200px;" d="M 104.519 314.78 L 104.973 315.313 L 104.519 314.78 Z"/>
+  <path style="fill: rgb(204, 206, 208); stroke: none; transform-origin: 400px 200px;" d="M 222.566 315.313 L 223.02 315.846 L 222.566 315.313 Z"/>
+  <path style="fill: rgb(107, 111, 117); stroke: none; transform-origin: 400px 200px;" d="M 140.387 315.846 L 140.841 316.378 L 140.387 315.846 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 222.566 315.846 L 223.02 316.378 L 222.566 315.846 Z"/>
+  <path style="fill: rgb(181, 183, 186); stroke: none; transform-origin: 400px 200px;" d="M 389.195 315.846 L 389.649 316.378 L 389.195 315.846 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 140.387 316.378 L 140.841 316.911 L 140.387 316.378 Z"/>
+  <path style="fill: rgb(106, 110, 116); stroke: none; transform-origin: 400px 200px;" d="M 360.591 316.378 L 361.045 316.911 L 360.591 316.378 Z"/>
+  <path style="fill: rgb(106, 110, 116); stroke: none; transform-origin: 400px 200px;" d="M 140.841 317.976 L 141.295 318.509 L 140.841 317.976 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 203.951 317.976 L 204.405 318.509 L 203.951 317.976 Z"/>
+  <path style="fill: rgb(131, 134, 139); stroke: none; transform-origin: 400px 200px;" d="M 388.741 317.976 L 389.195 318.509 L 388.741 317.976 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 104.973 318.509 L 105.427 319.041 L 104.973 318.509 M 140.841 318.509 L 141.295 319.041 L 140.841 318.509 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 223.02 318.509 L 223.474 319.041 L 223.02 318.509 Z"/>
+  <path style="fill: rgb(205, 206, 208); stroke: none; transform-origin: 400px 200px;" d="M 223.474 320.106 L 223.928 320.639 L 223.474 320.106 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 361.045 320.106 L 361.499 320.639 L 361.045 320.106 Z"/>
+  <path style="fill: rgb(204, 206, 208); stroke: none; transform-origin: 400px 200px;" d="M 105.427 320.639 L 105.881 321.172 L 105.427 320.639 Z"/>
+  <path style="fill: rgb(181, 183, 186); stroke: none; transform-origin: 400px 200px;" d="M 141.295 320.639 L 141.749 321.172 L 141.295 320.639 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 204.405 320.639 L 204.859 321.172 L 204.405 320.639 M 223.474 320.639 L 223.928 321.172 L 223.474 320.639 Z"/>
+  <path style="fill: rgb(181, 183, 186); stroke: none; transform-origin: 400px 200px;" d="M 388.287 321.704 L 388.741 322.237 L 388.287 321.704 Z"/>
+  <path style="fill: rgb(106, 110, 116); stroke: none; transform-origin: 400px 200px;" d="M 361.499 322.237 L 361.953 322.77 L 361.499 322.237 Z"/>
+  <path style="fill: rgb(107, 111, 117); stroke: none; transform-origin: 400px 200px;" d="M 204.859 322.77 L 205.313 323.302 L 204.859 322.77 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 361.499 322.77 L 361.953 323.302 L 361.499 322.77 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 204.859 323.302 L 205.313 323.835 L 204.859 323.302 M 223.928 323.302 L 224.383 323.835 L 223.928 323.302 Z"/>
+  <path style="fill: rgb(107, 111, 117); stroke: none; transform-origin: 400px 200px;" d="M 142.203 323.835 L 142.657 324.367 L 142.203 323.835 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 105.881 324.367 L 106.335 324.9 L 105.881 324.367 M 142.203 324.367 L 142.657 324.9 L 142.203 324.367 Z"/>
+  <path style="fill: rgb(204, 206, 208); stroke: none; transform-origin: 400px 200px;" d="M 224.383 324.9 L 224.837 325.433 L 224.383 324.9 Z"/>
+  <path style="fill: rgb(155, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 224.383 325.433 L 224.837 325.965 L 224.383 325.433 Z"/>
+  <path style="fill: rgb(106, 110, 116); stroke: none; transform-origin: 400px 200px;" d="M 142.657 325.965 L 143.111 326.498 L 142.657 325.965 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 361.953 325.965 L 362.408 326.498 L 361.953 325.965 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 142.657 326.498 L 143.111 327.031 L 142.657 326.498 Z"/>
+  <path style="fill: rgb(131, 134, 139); stroke: none; transform-origin: 400px 200px;" d="M 60.932 327.031 L 61.386 327.563 L 60.932 327.031 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 19.161 327.563 L 19.615 328.096 L 19.161 327.563 Z"/>
+  <path style="fill: rgb(205, 207, 209); stroke: none; transform-origin: 400px 200px;" d="M 224.837 327.563 L 225.291 328.096 L 224.837 327.563 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 19.615 328.096 L 20.069 328.628 L 19.615 328.096 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 224.837 328.096 L 225.291 328.628 L 224.837 328.096 Z"/>
+  <path style="fill: rgb(181, 183, 186); stroke: none; transform-origin: 400px 200px;" d="M 267.969 328.096 L 268.423 328.628 L 267.969 328.096 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 143.111 328.628 L 143.565 329.161 L 143.111 328.628 Z"/>
+  <path style="fill: rgb(106, 110, 116); stroke: none; transform-origin: 400px 200px;" d="M 267.969 328.628 L 268.423 329.161 L 267.969 328.628 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 362.408 328.628 L 362.862 329.161 L 362.408 328.628 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 205.767 329.161 L 206.221 329.694 L 205.767 329.161 Z"/>
+  <path style="fill: rgb(106, 110, 116); stroke: none; transform-origin: 400px 200px;" d="M 257.981 329.161 L 258.435 329.694 L 257.981 329.161 M 267.061 329.161 L 267.515 329.694 L 267.061 329.161 Z"/>
+  <path style="fill: rgb(205, 207, 209); stroke: none; transform-origin: 400px 200px;" d="M 106.789 329.694 L 107.243 330.226 L 106.789 329.694 Z"/>
+  <path style="fill: rgb(205, 206, 208); stroke: none; transform-origin: 400px 200px;" d="M 225.291 329.694 L 225.745 330.226 L 225.291 329.694 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 106.789 330.226 L 107.243 330.759 L 106.789 330.226 Z"/>
+  <path style="fill: rgb(106, 110, 116); stroke: none; transform-origin: 400px 200px;" d="M 143.565 330.226 L 144.019 330.759 L 143.565 330.226 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 225.291 330.226 L 225.745 330.759 L 225.291 330.226 Z"/>
+  <path style="fill: rgb(180, 182, 186); stroke: none; transform-origin: 400px 200px;" d="M 386.925 330.226 L 387.379 330.759 L 386.925 330.226 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 143.565 330.759 L 144.019 331.292 L 143.565 330.759 Z"/>
+  <path style="fill: rgb(155, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 206.221 331.824 L 206.675 332.357 L 206.221 331.824 Z"/>
+  <path style="fill: rgb(107, 111, 117); stroke: none; transform-origin: 400px 200px;" d="M 144.019 332.357 L 144.473 332.889 L 144.019 332.357 Z"/>
+  <path style="fill: rgb(205, 207, 209); stroke: none; transform-origin: 400px 200px;" d="M 225.745 332.357 L 226.199 332.889 L 225.745 332.357 Z"/>
+  <path style="fill: rgb(131, 134, 139); stroke: none; transform-origin: 400px 200px;" d="M 60.024 332.889 L 60.478 333.422 L 60.024 332.889 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 144.019 332.889 L 144.473 333.422 L 144.019 332.889 M 225.745 332.889 L 226.199 333.422 L 225.745 332.889 Z"/>
+  <path style="fill: rgb(107, 111, 117); stroke: none; transform-origin: 400px 200px;" d="M 206.675 333.955 L 207.129 334.487 L 206.675 333.955 Z"/>
+  <path style="fill: rgb(106, 110, 116); stroke: none; transform-origin: 400px 200px;" d="M 144.473 334.487 L 144.927 335.02 L 144.473 334.487 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 206.675 334.487 L 207.129 335.02 L 206.675 334.487 Z"/>
+  <path style="fill: rgb(204, 206, 208); stroke: none; transform-origin: 400px 200px;" d="M 226.199 334.487 L 226.653 335.02 L 226.199 334.487 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 363.316 334.487 L 363.77 335.02 L 363.316 334.487 Z"/>
+  <path style="fill: rgb(181, 183, 186); stroke: none; transform-origin: 400px 200px;" d="M 59.57 335.02 L 60.024 335.553 L 59.57 335.02 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 144.473 335.02 L 144.927 335.553 L 144.473 335.02 Z"/>
+  <path style="fill: rgb(155, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 226.199 335.02 L 226.653 335.553 L 226.199 335.02 Z"/>
+  <path style="fill: rgb(205, 207, 209); stroke: none; transform-origin: 400px 200px;" d="M 107.697 335.553 L 108.151 336.085 L 107.697 335.553 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 107.697 336.085 L 108.151 336.618 L 107.697 336.085 Z"/>
+  <path style="fill: rgb(131, 134, 139); stroke: none; transform-origin: 400px 200px;" d="M 285.677 336.085 L 286.131 336.618 L 285.677 336.085 Z"/>
+  <path style="fill: rgb(180, 182, 185); stroke: none; transform-origin: 400px 200px;" d="M 386.017 336.085 L 386.471 336.618 L 386.017 336.085 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 89.99 336.618 L 90.444 337.15 L 89.99 336.618 Z"/>
+  <path style="fill: rgb(106, 110, 116); stroke: none; transform-origin: 400px 200px;" d="M 144.927 336.618 L 145.381 337.15 L 144.927 336.618 Z"/>
+  <path style="fill: rgb(181, 183, 186); stroke: none; transform-origin: 400px 200px;" d="M 336.074 336.618 L 336.528 337.15 L 336.074 336.618 Z"/>
+  <path style="fill: rgb(107, 111, 117); stroke: none; transform-origin: 400px 200px;" d="M 363.77 336.618 L 364.224 337.15 L 363.77 336.618 Z"/>
+  <path style="fill: rgb(181, 183, 186); stroke: none; transform-origin: 400px 200px;" d="M 144.927 337.15 L 145.381 337.683 L 144.927 337.15 Z"/>
+  <path style="fill: rgb(205, 207, 209); stroke: none; transform-origin: 400px 200px;" d="M 226.653 337.15 L 227.107 337.683 L 226.653 337.15 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 363.77 337.15 L 364.224 337.683 L 363.77 337.15 Z"/>
+  <path style="fill: rgb(107, 111, 117); stroke: none; transform-origin: 400px 200px;" d="M 1.454 337.683 L 1.908 338.216 L 1.454 337.683 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 226.653 337.683 L 227.107 338.216 L 226.653 337.683 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 1.454 338.216 L 1.908 338.748 L 1.454 338.216 Z"/>
+  <path style="fill: rgb(107, 111, 117); stroke: none; transform-origin: 400px 200px;" d="M 145.381 338.748 L 145.835 339.281 L 145.381 338.748 Z"/>
+  <path style="fill: rgb(131, 134, 139); stroke: none; transform-origin: 400px 200px;" d="M 285.222 338.748 L 285.677 339.281 L 285.222 338.748 Z"/>
+  <path style="fill: rgb(205, 207, 209); stroke: none; transform-origin: 400px 200px;" d="M 285.222 339.281 L 285.677 339.814 L 285.222 339.281 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 1.908 339.814 L 2.362 340.346 L 1.908 339.814 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 90.444 340.346 L 90.898 340.879 L 90.444 340.346 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 207.583 340.346 L 208.037 340.879 L 207.583 340.346 Z"/>
+  <path style="fill: rgb(131, 134, 139); stroke: none; transform-origin: 400px 200px;" d="M 227.107 340.346 L 227.561 340.879 L 227.107 340.346 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 284.768 340.346 L 285.222 340.879 L 284.768 340.346 Z"/>
+  <path style="fill: rgb(155, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 364.224 340.346 L 364.678 340.879 L 364.224 340.346 Z"/>
+  <path style="fill: rgb(107, 111, 117); stroke: none; transform-origin: 400px 200px;" d="M 2.362 340.879 L 2.816 341.411 L 2.362 340.879 Z"/>
+  <path style="fill: rgb(205, 207, 209); stroke: none; transform-origin: 400px 200px;" d="M 2.362 341.411 L 2.816 341.944 L 2.362 341.411 M 108.605 341.411 L 109.059 341.944 L 108.605 341.411 Z"/>
+  <path style="fill: rgb(106, 110, 116); stroke: none; transform-origin: 400px 200px;" d="M 2.816 341.944 L 3.27 342.477 L 2.816 341.944 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 108.605 341.944 L 109.059 342.477 L 108.605 341.944 Z"/>
+  <path style="fill: rgb(205, 206, 208); stroke: none; transform-origin: 400px 200px;" d="M 227.561 341.944 L 228.015 342.477 L 227.561 341.944 Z"/>
+  <path style="fill: rgb(205, 207, 209); stroke: none; transform-origin: 400px 200px;" d="M 284.314 341.944 L 284.768 342.477 L 284.314 341.944 Z"/>
+  <path style="fill: rgb(106, 110, 116); stroke: none; transform-origin: 400px 200px;" d="M 146.289 342.477 L 146.743 343.009 L 146.289 342.477 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 227.561 342.477 L 228.015 343.009 L 227.561 342.477 Z"/>
+  <path style="fill: rgb(204, 206, 208); stroke: none; transform-origin: 400px 200px;" d="M 283.86 342.477 L 284.314 343.009 L 283.86 342.477 Z"/>
+  <path style="fill: rgb(180, 182, 185); stroke: none; transform-origin: 400px 200px;" d="M 335.166 342.477 L 335.62 343.009 L 335.166 342.477 Z"/>
+  <path style="fill: rgb(206, 207, 209); stroke: none; transform-origin: 400px 200px;" d="M 3.27 343.009 L 3.724 343.542 L 3.27 343.009 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 146.289 343.009 L 146.743 343.542 L 146.289 343.009 M 208.037 343.009 L 208.491 343.542 L 208.037 343.009 Z"/>
+  <path style="fill: rgb(106, 110, 116); stroke: none; transform-origin: 400px 200px;" d="M 283.406 343.009 L 283.86 343.542 L 283.406 343.009 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 364.678 343.009 L 365.132 343.542 L 364.678 343.009 M 3.724 343.542 L 4.178 344.075 L 3.724 343.542 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 4.178 344.075 L 4.632 344.607 L 4.178 344.075 Z"/>
+  <path style="fill: rgb(205, 207, 209); stroke: none; transform-origin: 400px 200px;" d="M 282.952 344.075 L 283.406 344.607 L 282.952 344.075 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 4.632 344.607 L 5.086 345.14 L 4.632 344.607 Z"/>
+  <path style="fill: rgb(131, 134, 139); stroke: none; transform-origin: 400px 200px;" d="M 58.208 344.607 L 58.662 345.14 L 58.208 344.607 Z"/>
+  <path style="fill: rgb(106, 110, 116); stroke: none; transform-origin: 400px 200px;" d="M 146.743 344.607 L 147.198 345.14 L 146.743 344.607 Z"/>
+  <path style="fill: rgb(181, 183, 186); stroke: none; transform-origin: 400px 200px;" d="M 384.655 344.607 L 385.109 345.14 L 384.655 344.607 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 109.059 345.14 L 109.513 345.672 L 109.059 345.14 M 146.743 345.14 L 147.198 345.672 L 146.743 345.14 Z"/>
+  <path style="fill: rgb(106, 110, 116); stroke: none; transform-origin: 400px 200px;" d="M 208.491 345.14 L 208.946 345.672 L 208.491 345.14 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 228.015 345.14 L 228.469 345.672 L 228.015 345.14 M 281.59 345.14 L 282.044 345.672 L 281.59 345.14 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 5.994 345.672 L 6.448 346.205 L 5.994 345.672 Z"/>
+  <path style="fill: rgb(155, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 208.491 345.672 L 208.946 346.205 L 208.491 345.672 Z"/>
+  <path style="fill: rgb(155, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 280.682 345.672 L 281.136 346.205 L 280.682 345.672 Z"/>
+  <path style="fill: rgb(181, 183, 186); stroke: none; transform-origin: 400px 200px;" d="M 6.902 346.205 L 7.356 346.738 L 6.902 346.205 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 279.774 346.205 L 280.228 346.738 L 279.774 346.205 Z"/>
+  <path style="fill: rgb(181, 183, 186); stroke: none; transform-origin: 400px 200px;" d="M 8.264 346.738 L 8.719 347.27 L 8.264 346.738 Z"/>
+  <path style="fill: rgb(106, 110, 116); stroke: none; transform-origin: 400px 200px;" d="M 9.021 346.915 C 8.819 347.152 9.299 347.122 9.324 347.093 C 9.526 346.856 9.046 346.886 9.021 346.915 Z"/>
+  <path style="fill: rgb(107, 110, 116); stroke: none; transform-origin: 400px 200px;" d="M 147.198 346.738 L 147.652 347.27 L 147.198 346.738 Z"/>
+  <path style="fill: rgb(205, 207, 209); stroke: none; transform-origin: 400px 200px;" d="M 228.469 346.738 L 228.923 347.27 L 228.469 346.738 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 278.412 346.738 L 278.866 347.27 L 278.412 346.738 Z"/>
+  <path style="fill: rgb(205, 207, 209); stroke: none; transform-origin: 400px 200px;" d="M 278.866 346.738 L 279.32 347.27 L 278.866 346.738 Z"/>
+  <path style="fill: rgb(181, 183, 186); stroke: none; transform-origin: 400px 200px;" d="M 10.383 347.448 C 10.181 347.685 10.661 347.655 10.686 347.626 C 10.888 347.389 10.408 347.418 10.383 347.448 Z"/>
+  <path style="fill: rgb(106, 110, 116); stroke: none; transform-origin: 400px 200px;" d="M 10.989 347.27 C 11.672 347.634 12.04 347.71 12.805 347.803 C 12.121 347.439 11.754 347.363 10.989 347.27 Z"/>
+  <path style="fill: rgb(205, 207, 209); stroke: none; transform-origin: 400px 200px;" d="M 109.513 347.27 L 109.967 347.803 L 109.513 347.27 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 147.198 347.27 L 147.652 347.803 L 147.198 347.27 M 228.469 347.27 L 228.923 347.803 L 228.469 347.27 Z"/>
+  <path style="fill: rgb(156, 158, 162); stroke: none; transform-origin: 400px 200px;" d="M 276.142 347.27 L 276.596 347.803 L 276.142 347.27 Z"/>
+  <path style="fill: rgb(205, 207, 209); stroke: none; transform-origin: 400px 200px;" d="M 276.596 347.27 L 277.05 347.803 L 276.596 347.27 Z"/>
+  <path style="fill: rgb(131, 134, 139); stroke: none; transform-origin: 400px 200px;" d="M 334.258 347.27 L 334.712 347.803 L 334.258 347.27 Z"/>
+  <path style="fill: rgb(254, 201, 167); stroke: none; transform-origin: 400px 200px;" d="M 205.767 361.651 L 206.221 362.184 L 205.767 361.651 Z"/>
+  <path style="fill: rgb(254, 166, 108); stroke: none; transform-origin: 400px 200px;" d="M 321.545 362.184 L 321.999 362.716 L 321.545 362.184 Z"/>
+  <path style="fill: rgb(254, 201, 167); stroke: none; transform-origin: 400px 200px;" d="M 354.689 362.184 L 355.143 362.716 L 354.689 362.184 Z"/>
+  <path style="fill: rgb(254, 201, 167); stroke: none; transform-origin: 400px 200px;" d="M 208.037 362.716 L 208.491 363.249 L 208.037 362.716 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 273.872 362.716 L 274.326 363.249 L 273.872 362.716 M 307.016 362.716 L 307.47 363.249 L 307.016 362.716 M 355.597 362.716 L 356.051 363.249 L 355.597 362.716 Z"/>
+  <path style="fill: rgb(254, 166, 108); stroke: none; transform-origin: 400px 200px;" d="M 290.217 363.249 L 290.671 363.782 L 290.217 363.249 Z"/>
+  <path style="fill: rgb(254, 201, 167); stroke: none; transform-origin: 400px 200px;" d="M 306.108 363.249 L 306.562 363.782 L 306.108 363.249 Z"/>
+  <path style="fill: rgb(254, 166, 108); stroke: none; transform-origin: 400px 200px;" d="M 323.361 363.249 L 323.815 363.782 L 323.361 363.249 Z"/>
+  <path style="fill: rgb(254, 201, 167); stroke: none; transform-origin: 400px 200px;" d="M 190.784 363.782 L 191.238 364.314 L 190.784 363.782 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 209.4 363.782 L 209.854 364.314 L 209.4 363.782 M 272.51 363.782 L 272.964 364.314 L 272.51 363.782 M 305.654 363.782 L 306.108 364.314 L 305.654 363.782 M 356.959 363.782 L 357.413 364.314 L 356.959 363.782 Z"/>
+  <path style="fill: rgb(254, 166, 108); stroke: none; transform-origin: 400px 200px;" d="M 190.33 364.314 L 190.784 364.847 L 190.33 364.314 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 209.854 364.314 L 210.308 364.847 L 209.854 364.314 M 291.579 364.314 L 292.033 364.847 L 291.579 364.314 M 324.723 364.314 L 325.177 364.847 L 324.723 364.314 M 337.89 364.314 L 338.344 364.847 L 337.89 364.314 M 357.413 364.314 L 357.867 364.847 L 357.413 364.314 Z"/>
+  <path style="fill: rgb(254, 201, 166); stroke: none; transform-origin: 400px 200px;" d="M 150.83 364.847 L 151.284 365.379 L 150.83 364.847 Z"/>
+  <path style="fill: rgb(254, 166, 108); stroke: none; transform-origin: 400px 200px;" d="M 210.308 364.847 L 210.762 365.379 L 210.308 364.847 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 292.033 364.847 L 292.487 365.379 L 292.033 364.847 M 325.177 364.847 L 325.631 365.379 L 325.177 364.847 M 189.422 365.379 L 189.876 365.912 L 189.422 365.379 M 210.762 365.379 L 211.216 365.912 L 210.762 365.379 Z"/>
+  <path style="fill: rgb(254, 201, 166); stroke: none; transform-origin: 400px 200px;" d="M 292.487 365.379 L 292.941 365.912 L 292.487 365.379 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 336.982 365.379 L 337.436 365.912 L 336.982 365.379 M 358.321 365.379 L 358.775 365.912 L 358.321 365.379 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 270.694 365.912 L 271.148 366.445 L 270.694 365.912 Z"/>
+  <path style="fill: rgb(253, 165, 108); stroke: none; transform-origin: 400px 200px;" d="M 303.838 365.912 L 304.292 366.445 L 303.838 365.912 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 358.775 365.912 L 359.229 366.445 L 358.775 365.912 Z"/>
+  <path style="fill: rgb(254, 166, 108); stroke: none; transform-origin: 400px 200px;" d="M 211.67 366.977 L 212.124 367.51 L 211.67 366.977 Z"/>
+  <path style="fill: rgb(254, 201, 167); stroke: none; transform-origin: 400px 200px;" d="M 326.539 366.977 L 326.993 367.51 L 326.539 366.977 Z"/>
+  <path style="fill: rgb(253, 165, 108); stroke: none; transform-origin: 400px 200px;" d="M 336.074 366.977 L 336.528 367.51 L 336.074 366.977 Z"/>
+  <path style="fill: rgb(254, 201, 167); stroke: none; transform-origin: 400px 200px;" d="M 269.785 367.51 L 270.24 368.043 L 269.785 367.51 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 302.93 367.51 L 303.384 368.043 L 302.93 367.51 Z"/>
+  <path style="fill: rgb(254, 166, 108); stroke: none; transform-origin: 400px 200px;" d="M 144.927 369.108 L 145.381 369.64 L 144.927 369.108 Z"/>
+  <path style="fill: rgb(254, 201, 166); stroke: none; transform-origin: 400px 200px;" d="M 335.166 369.108 L 335.62 369.64 L 335.166 369.108 Z"/>
+  <path style="fill: rgb(254, 166, 108); stroke: none; transform-origin: 400px 200px;" d="M 68.196 369.64 L 68.65 370.173 L 68.196 369.64 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 286.585 369.64 L 287.039 370.173 L 286.585 369.64 M 319.729 369.64 L 320.183 370.173 L 319.729 369.64 Z"/>
+  <path style="fill: rgb(254, 166, 108); stroke: none; transform-origin: 400px 200px;" d="M 124.95 370.173 L 125.404 370.706 L 124.95 370.173 Z"/>
+  <path style="fill: rgb(254, 201, 167); stroke: none; transform-origin: 400px 200px;" d="M 152.192 370.173 L 152.646 370.706 L 152.192 370.173 Z"/>
+  <path style="fill: rgb(253, 165, 108); stroke: none; transform-origin: 400px 200px;" d="M 309.286 370.173 L 309.74 370.706 L 309.286 370.173 Z"/>
+  <path style="fill: rgb(253, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 287.947 371.238 L 288.401 371.771 L 287.947 371.238 Z"/>
+  <path style="fill: rgb(254, 166, 108); stroke: none; transform-origin: 400px 200px;" d="M 321.091 371.238 L 321.545 371.771 L 321.091 371.238 M 124.496 371.771 L 124.95 372.304 L 124.496 371.771 M 144.019 371.771 L 144.473 372.304 L 144.019 371.771 Z"/>
+  <path style="fill: rgb(254, 201, 167); stroke: none; transform-origin: 400px 200px;" d="M 108.605 372.304 L 109.059 372.836 L 108.605 372.304 Z"/>
+  <path style="fill: rgb(254, 201, 166); stroke: none; transform-origin: 400px 200px;" d="M 60.024 374.434 L 60.478 374.967 L 60.024 374.434 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 102.703 376.032 L 103.157 376.565 L 102.703 376.032 Z"/>
+  <path style="fill: rgb(254, 201, 167); stroke: none; transform-origin: 400px 200px;" d="M 116.324 376.565 L 116.778 377.097 L 116.324 376.565 Z"/>
+  <path style="fill: rgb(254, 166, 108); stroke: none; transform-origin: 400px 200px;" d="M 142.657 377.097 L 143.111 377.63 L 142.657 377.097 Z"/>
+  <path style="fill: rgb(254, 201, 166); stroke: none; transform-origin: 400px 200px;" d="M 59.116 377.63 L 59.57 378.162 L 59.116 377.63 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 103.611 379.228 L 104.065 379.76 L 103.611 379.228 Z"/>
+  <path style="fill: rgb(254, 202, 167); stroke: none; transform-origin: 400px 200px;" d="M 115.415 379.76 L 115.869 380.293 L 115.415 379.76 Z"/>
+  <path style="fill: rgb(254, 166, 109); stroke: none; transform-origin: 400px 200px;" d="M 105.427 385.619 L 105.881 386.152 L 105.427 385.619 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 112.237 385.619 L 112.691 386.152 L 112.237 385.619 Z"/>
+  <path style="fill: rgb(253, 165, 108); stroke: none; transform-origin: 400px 200px;" d="M 63.656 386.152 L 64.11 386.684 L 63.656 386.152 Z"/>
+  <path style="fill: rgb(254, 201, 165); stroke: none; transform-origin: 400px 200px;" d="M 156.278 386.152 L 156.732 386.684 L 156.278 386.152 Z"/>
+  <path style="fill: rgb(254, 165, 108); stroke: none; transform-origin: 400px 200px;" d="M 63.202 387.75 L 63.656 388.282 L 63.202 387.75 Z"/>
+  <path style="fill: rgb(254, 166, 109); stroke: none; transform-origin: 400px 200px;" d="M 49.581 389.347 L 50.035 389.88 L 49.581 389.347 Z"/>
+  <path style="fill: rgb(254, 166, 108); stroke: none; transform-origin: 400px 200px;" d="M 62.748 389.347 L 63.202 389.88 L 62.748 389.347 Z"/>
+  <path style="fill: rgb(254, 201, 167); stroke: none; transform-origin: 400px 200px;" d="M 206.221 389.88 L 206.675 390.413 L 206.221 389.88 Z"/>
+  <path style="fill: rgb(254, 201, 166); stroke: none; transform-origin: 400px 200px;" d="M 246.176 389.88 L 246.63 390.413 L 246.176 389.88 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 287.947 389.88 L 288.401 390.413 L 287.947 389.88 M 341.522 389.88 L 341.976 390.413 L 341.522 389.88 Z"/>
+  <path style="fill: rgb(254, 201, 167); stroke: none; transform-origin: 400px 200px;" d="M 251.624 390.413 L 252.078 390.945 L 251.624 390.413 Z"/>
+  <path style="fill: rgb(254, 166, 109); stroke: none; transform-origin: 400px 200px;" d="M 50.035 390.945 L 50.489 391.478 L 50.035 390.945 Z"/>
+  <path style="fill: rgb(254, 166, 108); stroke: none; transform-origin: 400px 200px;" d="M 62.294 390.945 L 62.748 391.478 L 62.294 390.945 Z"/>
+  <path style="fill: rgb(254, 166, 108); stroke: none; transform-origin: 400px 200px;" d="M 194.417 390.945 L 194.871 391.478 L 194.417 390.945 Z"/>
+  <path style="fill: rgb(254, 166, 108); stroke: none; transform-origin: 400px 200px;" d="M 276.142 390.945 L 276.596 391.478 L 276.142 390.945 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 309.286 390.945 L 309.74 391.478 L 309.286 390.945 Z"/>
+  <path style="fill: rgb(254, 165, 108); stroke: none; transform-origin: 400px 200px;" d="M 119.048 391.478 L 119.502 392.011 L 119.048 391.478 Z"/>
+  <path style="fill: rgb(254, 201, 167); stroke: none; transform-origin: 400px 200px;" d="M 157.64 391.478 L 158.094 392.011 L 157.64 391.478 Z"/>
+  <path style="fill: rgb(253, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 250.716 391.478 L 251.17 392.011 L 250.716 391.478 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 286.585 391.478 L 287.039 392.011 L 286.585 391.478 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 319.729 391.478 L 320.183 392.011 L 319.729 391.478 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 342.884 391.478 L 343.338 392.011 L 342.884 391.478 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 335.166 392.011 L 335.62 392.543 L 335.166 392.011 Z"/>
+  <path style="fill: rgb(254, 166, 108); stroke: none; transform-origin: 400px 200px;" d="M 61.84 392.543 L 62.294 393.076 L 61.84 392.543 Z"/>
+  <path style="fill: rgb(254, 166, 108); stroke: none; transform-origin: 400px 200px;" d="M 118.594 393.076 L 119.048 393.608 L 118.594 393.076 Z"/>
+  <path style="fill: rgb(254, 201, 167); stroke: none; transform-origin: 400px 200px;" d="M 257.981 393.076 L 258.435 393.608 L 257.981 393.076 Z"/>
+  <path style="fill: rgb(254, 166, 108); stroke: none; transform-origin: 400px 200px;" d="M 293.849 393.076 L 294.303 393.608 L 293.849 393.076 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 326.993 393.076 L 327.447 393.608 L 326.993 393.076 Z"/>
+  <path style="fill: rgb(254, 166, 108); stroke: none; transform-origin: 400px 200px;" d="M 211.67 394.141 L 212.124 394.674 L 211.67 394.141 M 240.728 394.141 L 241.182 394.674 L 240.728 394.141 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 293.395 394.141 L 293.849 394.674 L 293.395 394.141 Z"/>
+  <path style="fill: rgb(254, 201, 167); stroke: none; transform-origin: 400px 200px;" d="M 326.539 394.141 L 326.993 394.674 L 326.539 394.141 Z"/>
+  <path style="fill: rgb(254, 166, 108); stroke: none; transform-origin: 400px 200px;" d="M 336.074 394.141 L 336.528 394.674 L 336.074 394.141 M 118.14 394.674 L 118.594 395.206 L 118.14 394.674 Z"/>
+  <path style="fill: rgb(254, 201, 167); stroke: none; transform-origin: 400px 200px;" d="M 303.384 394.674 L 303.838 395.206 L 303.384 394.674 M 188.968 395.206 L 189.422 395.739 L 188.968 395.206 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 270.694 395.206 L 271.148 395.739 L 270.694 395.206 Z"/>
+  <path style="fill: rgb(254, 184, 138); stroke: none; transform-origin: 400px 200px;" d="M 303.838 395.206 L 304.292 395.739 L 303.838 395.206 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 189.422 395.739 L 189.876 396.272 L 189.422 395.739 Z"/>
+  <path style="fill: rgb(254, 200, 166); stroke: none; transform-origin: 400px 200px;" d="M 210.762 395.739 L 211.216 396.272 L 210.762 395.739 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 241.636 395.739 L 242.09 396.272 L 241.636 395.739 M 271.148 395.739 L 271.602 396.272 L 271.148 395.739 Z"/>
+  <path style="fill: rgb(254, 201, 166); stroke: none; transform-origin: 400px 200px;" d="M 336.982 395.739 L 337.436 396.272 L 336.982 395.739 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 358.321 395.739 L 358.775 396.272 L 358.321 395.739 Z"/>
+  <path style="fill: rgb(254, 166, 108); stroke: none; transform-origin: 400px 200px;" d="M 117.686 396.272 L 118.14 396.804 L 117.686 396.272 Z"/>
+  <path style="fill: rgb(254, 184, 138); stroke: none; transform-origin: 400px 200px;" d="M 189.876 396.272 L 190.33 396.804 L 189.876 396.272 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 242.09 396.272 L 242.544 396.804 L 242.09 396.272 Z"/>
+  <path style="fill: rgb(254, 201, 167); stroke: none; transform-origin: 400px 200px;" d="M 292.033 396.272 L 292.487 396.804 L 292.033 396.272 Z"/>
+  <path style="fill: rgb(254, 184, 138); stroke: none; transform-origin: 400px 200px;" d="M 337.436 396.272 L 337.89 396.804 L 337.436 396.272 Z"/>
+  <path style="fill: rgb(253, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 209.854 396.804 L 210.308 397.337 L 209.854 396.804 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 242.544 396.804 L 242.998 397.337 L 242.544 396.804 Z"/>
+  <path style="fill: rgb(254, 184, 138); stroke: none; transform-origin: 400px 200px;" d="M 272.056 396.804 L 272.51 397.337 L 272.056 396.804 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 305.2 396.804 L 305.654 397.337 L 305.2 396.804 Z"/>
+  <path style="fill: rgb(253, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 337.89 396.804 L 338.344 397.337 L 337.89 396.804 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 357.413 396.804 L 357.867 397.337 L 357.413 396.804 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 190.784 397.337 L 191.238 397.869 L 190.784 397.337 M 272.51 397.337 L 272.964 397.869 L 272.51 397.337 Z"/>
+  <path style="fill: rgb(254, 184, 138); stroke: none; transform-origin: 400px 200px;" d="M 305.654 397.337 L 306.108 397.869 L 305.654 397.337 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 254.348 397.869 L 254.803 398.402 L 254.348 397.869 M 290.217 397.869 L 290.671 398.402 L 290.217 397.869 Z"/>
+  <path style="fill: rgb(254, 201, 167); stroke: none; transform-origin: 400px 200px;" d="M 306.108 397.869 L 306.562 398.402 L 306.108 397.869 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 323.361 397.869 L 323.815 398.402 L 323.361 397.869 Z"/>
+  <path style="fill: rgb(253, 165, 108); stroke: none; transform-origin: 400px 200px;" d="M 339.252 397.869 L 339.706 398.402 L 339.252 397.869 Z"/>
+  <path style="fill: rgb(254, 201, 167); stroke: none; transform-origin: 400px 200px;" d="M 192.146 398.402 L 192.6 398.935 L 192.146 398.402 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 253.44 398.402 L 253.894 398.935 L 253.44 398.402 Z"/>
+  <path style="fill: rgb(254, 202, 167); stroke: none; transform-origin: 400px 200px;" d="M 273.872 398.402 L 274.326 398.935 L 273.872 398.402 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 307.016 398.402 L 307.47 398.935 L 307.016 398.402 Z"/>
+  <path style="fill: rgb(254, 201, 167); stroke: none; transform-origin: 400px 200px;" d="M 355.597 398.402 L 356.051 398.935 L 355.597 398.402 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 252.532 398.935 L 252.986 399.467 L 252.532 398.935 Z"/>
+  <path style="fill: rgb(254, 201, 167); stroke: none; transform-origin: 400px 200px;" d="M 274.78 398.935 L 275.234 399.467 L 274.78 398.935 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 288.401 398.935 L 288.855 399.467 L 288.401 398.935 Z"/>
+  <path style="fill: rgb(254, 201, 167); stroke: none; transform-origin: 400px 200px;" d="M 307.924 398.935 L 308.378 399.467 L 307.924 398.935 Z"/>
+  <path style="fill: rgb(254, 183, 137); stroke: none; transform-origin: 400px 200px;" d="M 321.545 398.935 L 321.999 399.467 L 321.545 398.935 Z"/>
+  <path style="fill: rgb(254, 201, 167); stroke: none; transform-origin: 400px 200px;" d="M 52.305 399.467 L 52.759 400 L 52.305 399.467 Z"/>
+  <path style="stroke: none; fill: rgb(255, 255, 255); transform-origin: 731.759px 312.326px;" d="M 199.948 65.807 C 197.068 65.937 194.017 68.258 191.586 69.463 C 184.726 72.869 177.925 76.367 171.062 79.768 C 146.393 91.991 121.742 104.321 97.325 116.923 C 90.279 120.562 83.148 124.09 76.042 127.639 C 73.473 128.921 68.703 130.347 67.377 132.812 C 66.327 134.765 66.918 137.736 66.918 139.837 L 66.918 155.729 L 66.918 211.349 L 66.918 251.74 L 66.918 262.335 C 66.923 263.901 66.64 265.854 67.7 267.227 C 69.147 269.103 72.345 270.135 74.521 271.22 L 88.203 278.126 C 105.217 286.586 122.139 295.179 139.135 303.665 C 153.85 311.014 168.493 318.476 183.225 325.801 L 194.627 331.579 C 196.415 332.477 198.543 333.817 200.708 333.714 C 204.023 333.56 207.783 330.789 210.591 329.397 C 217.978 325.736 225.287 321.951 232.637 318.235 C 256.168 306.338 279.679 294.389 303.33 282.675 C 310.197 279.275 317.006 275.79 323.855 272.365 C 326.568 271.009 331.143 269.5 332.957 267.211 C 334.657 265.068 333.739 260.841 333.739 258.361 L 333.739 235.186 L 333.739 162.35 L 333.739 141.824 C 333.739 139.205 334.581 135.231 333.28 132.812 C 332.316 131.018 329.516 130.069 327.657 129.143 L 314.735 122.62 C 297.498 113.991 280.124 105.525 263.042 96.664 C 247.967 88.844 232.67 81.299 217.432 73.721 L 206.03 68.044 C 204.217 67.133 202.156 65.707 199.948 65.807 Z"/>
+  <path style="fill: rgb(253, 112, 20); stroke: none; transform-origin: 516.352px 266.696px;" d="M 200.123 120.109 C 198.411 120.186 196.596 121.566 195.15 122.282 C 191.071 124.307 187.027 126.387 182.947 128.41 C 168.278 135.678 153.62 143.01 139.101 150.504 C 134.911 152.667 130.67 154.765 126.445 156.875 C 124.917 157.637 122.082 158.485 121.292 159.951 C 120.668 161.112 121.02 162.879 121.02 164.129 L 121.02 173.578 L 121.02 206.651 L 121.02 230.67 L 121.02 236.969 C 121.022 237.901 120.854 239.062 121.485 239.877 C 122.345 240.993 124.247 241.607 125.541 242.253 L 133.676 246.359 C 143.793 251.389 153.855 256.5 163.962 261.546 C 172.712 265.915 181.419 270.352 190.179 274.707 L 196.959 278.144 C 198.022 278.678 199.288 279.475 200.575 279.413 C 202.546 279.322 204.782 277.674 206.452 276.846 C 210.844 274.669 215.19 272.419 219.56 270.21 C 233.553 263.134 247.534 256.03 261.597 249.064 C 265.68 247.041 269.729 244.97 273.802 242.934 C 275.416 242.127 278.135 241.229 279.214 239.869 C 280.225 238.594 279.679 236.081 279.679 234.606 L 279.679 220.826 L 279.679 177.515 L 279.679 165.31 C 279.679 163.752 280.181 161.389 279.407 159.951 C 278.833 158.884 277.167 158.319 276.062 157.77 L 268.378 153.89 C 258.129 148.76 247.799 143.725 237.641 138.456 C 228.677 133.806 219.581 129.321 210.52 124.814 L 203.741 121.438 C 202.661 120.896 201.436 120.049 200.123 120.109 Z"/>
+  <path style="stroke: none; fill: rgb(255, 255, 255); transform-origin: 324.634px 226.082px;" d="M 200.279 168.438 C 199.605 168.468 198.892 169.012 198.324 169.293 C 196.72 170.09 195.129 170.907 193.524 171.702 C 187.756 174.561 181.991 177.443 176.282 180.39 C 174.634 181.242 172.967 182.067 171.305 182.896 C 170.705 183.196 169.589 183.53 169.28 184.106 C 169.033 184.563 169.172 185.257 169.172 185.748 L 169.172 189.465 L 169.172 202.471 L 169.172 211.916 L 169.172 214.393 C 169.172 214.759 169.107 215.216 169.355 215.537 C 169.694 215.975 170.44 216.217 170.95 216.47 L 174.148 218.086 C 178.128 220.064 182.084 222.074 186.058 224.057 C 189.499 225.776 192.924 227.52 196.369 229.233 L 199.035 230.584 C 199.452 230.795 199.95 231.108 200.456 231.084 C 201.231 231.049 202.111 230.399 202.768 230.074 C 204.495 229.218 206.204 228.333 207.922 227.465 C 213.424 224.682 218.923 221.889 224.453 219.149 C 226.058 218.354 227.651 217.539 229.253 216.738 C 229.887 216.421 230.957 216.068 231.381 215.533 C 231.778 215.033 231.564 214.043 231.564 213.463 L 231.564 208.045 L 231.564 191.013 L 231.564 186.213 C 231.564 185.6 231.761 184.672 231.457 184.106 C 231.23 183.687 230.576 183.464 230.141 183.249 L 227.12 181.722 C 223.089 179.705 219.027 177.726 215.032 175.653 C 211.507 173.825 207.931 172.061 204.367 170.288 L 201.701 168.961 C 201.277 168.748 200.795 168.414 200.279 168.438 Z"/>
+</svg>
