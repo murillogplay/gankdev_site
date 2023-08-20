@@ -1,6 +1,9 @@
 # MundoIsopoliSite
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.0.
+## Site publicado no netlify
+
+link: `https://mundo-isopoli.netlify.app/`
 
 ## Development server
 
