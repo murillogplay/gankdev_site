@@ -8,7 +8,7 @@ import { INews } from '../interfaces/news.interface';
   providedIn: 'root'
 })
 export class NewsService {
-  private apiUrl = 'http://servicodados.ibge.gov.br/api/v3/noticias?qtd=20'; 
+  private apiUrl = 'https://servicodados.ibge.gov.br/api/v3/noticias?qtd=20'; 
 
   constructor(private http: HttpClient) {}
 
