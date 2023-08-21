@@ -14,16 +14,16 @@ describe('AppComponent', () => {
     expect(app).toBeTruthy();
   });
 
-  it(`should have as title 'mundo_isopoli_site'`, () => {
+  it(`should have as title 'gankdev'`, () => {
     const fixture = TestBed.createComponent(AppComponent);
     const app = fixture.componentInstance;
-    expect(app.title).toEqual('mundo_isopoli_site');
+    expect(app.title).toEqual('gankdev');
   });
 
   it('should render title', () => {
     const fixture = TestBed.createComponent(AppComponent);
     fixture.detectChanges();
     const compiled = fixture.nativeElement as HTMLElement;
-    expect(compiled.querySelector('.content span')?.textContent).toContain('mundo_isopoli_site app is running!');
+    expect(compiled.querySelector('.content span')?.textContent).toContain('gankdev app is running!');
   });
 });
